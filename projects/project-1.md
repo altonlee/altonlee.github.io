@@ -12,9 +12,7 @@ labels:
 summary: Although not a project related to computer science, I have learned invaluable skills that helped shape me as a person.
 ---
 
-<div class="ui small rounded images">
   <img class="ui image" src="../images/proj1-staff.jpg">
-</div>
 
 For the past two summers, I have worked as a Summer Fun Aide staff at the Kaimuki Park on Waialae Ave. I was a Summer Fun Leader for a group of 1st graders for 6 weeks, from mid-June to end of July. As Summer Fun Leaders, we plan activities to do with the kids daily, which range from arts and crafts, sports and games, and music and dance. I specialized in sports and games, so I planned mostly running games and sports events. As leaders we also manage the teenage volunteers, otherwise known as Junior Leaders, to do small tasks to help with the groups and summer fun in general. 
 
