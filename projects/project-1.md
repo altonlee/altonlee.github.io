@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/proj1-summer.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Summer Fun
+permalink: projects/summerfun
 # All dates must be YYYY-MM-DD format!
-date: 2017-2018
+date: 8/3/18
 labels:
   - Group Management
   - Activity Planning
@@ -13,7 +13,7 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/proj1-staff.jng">
+  <img class="ui image" src="../images/proj1-staff.jpg">
 </div>
 
 For the past two summers, I have worked as a Summer Fun Aide staff at the Kaimuki Park on Waialae Ave. I was a Summer Fun Leader for a group of 1st graders for 6 weeks, from mid-June to end of July. As Summer Fun Leaders, we must plan and carry out fun activities for the children, manage teenagers, otherwise known as Junior Leaders, to help with small but meaningful tasks, while also setting a good role model of myself for the kids. Some activities I have helped plan and initiate were __ 
