@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/proj1-titlecard.png
-title: Vacay
-permalink: projects/vacay
+title: Super Mario Flight Simulator
+permalink: projects/111proj
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-02
 labels:
