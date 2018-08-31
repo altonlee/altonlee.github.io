@@ -19,5 +19,24 @@ For one of the last few assignments for ICS 211, we had to create a sudoku solve
 
 This project assignment was also another milestone of my computer science career, as this project truly challenged my knowledge of Java. We also learned a great deal about optimization and why recursion can be dangerous if not used properly, or if there is no quit method if the base condition is met. One of the test inputs our professor provided took almost an hour to solve! 
 
-Source: <a href="https://github.com/altonlee/altonlee.github.io/tree/master/projects/project-3-files"><i class="large github icon "></i>altonlee/sudoku-src</a>
+## Sample Code
+Below is some code from the project:
+
+```js
+ /* check each cell for conflicts */
+    for (int i = 0; i < sudoku.length; i++) {
+      for (int j = 0; j < sudoku.length; j++) {
+        int cell = sudoku[i][j];
+        if (cell == -1) {
+          continue; /* blanks are always OK */
+        }
+        if ((cell < 0) || (cell > 16)) {
+          if (printErrors) {
+            System.out.println("sudoku row " + i + " column " + j + " has illegal value "
+                + String.format("%02X", cell));
+          }
+          return false;
+        }
+   ...
+```
 
