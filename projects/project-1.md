@@ -11,7 +11,7 @@ labels:
   - Class Project
   - Game
   
-summary: A simple game created in Java
+summary: A simple game created in Java for my ICS 111 class
 ---
 
 <img class="ui medium right floated rounded image" src="../images/proj1-game.png">
