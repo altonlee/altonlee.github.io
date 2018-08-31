@@ -21,3 +21,6 @@ One of the projects we were assigned in ICS 111 was a custom project that could 
 Retrospectively, it is a very basic program and there are a lot of things that I want to go back and change about it, but it gives me something to look back on, and reminds myself that I must improve my coding literacy and fluency. I have added a video of the gameplay below:
 
 https://www.youtube.com/watch?v=7Q8WPcMoNAA
+
+Source: <a href="https://github.com/altonlee/altonlee.github.io/tree/master/projects/project-1-files"><i class="large github icon "></i>altonlee/mario-src</a>
+
