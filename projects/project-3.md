@@ -2,60 +2,22 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Recursion Practice
+permalink: projects/proj-recursion
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-04-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - Class Project
+  - Recursion
+summary: A project assignment aimed to practice recursion. 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+For one of the last few assignments for ICS 211, we had to create a sudoku solver using recursion. If given an input of a 9x9 array of array of numbers, it should recursively solve the puzzle by "brute force" methodology. If there are any missing or invalid values, the function should fill in the function with valid numbers and still complete the sukoku puzzle. It should then print the sudoku puzzle as an actual board in the console. If the puzzle is unsolvable (dfadfs, etc.) then the function would quit and the console would print unsolveable.
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
+This project assignment was also another milestone of my computer science career, as this project truly challenged my knowledge of Java. We also learned a great deal about optimization and why recursion can be dangerous if not used properly, or if there is no quit method if the base condition is met. One of the test inputs our professor provided took almost an hour to solve! 
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
