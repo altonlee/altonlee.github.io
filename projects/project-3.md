@@ -10,12 +10,12 @@ labels:
   - Java
   - Class Project
   - Recursion
-summary: Part sudoku solver, part recursion practice.
+summary: Part sudoku solver, part recursion practice. A homework assignment from my ICS 211 class.
 ---
 
 <img class="ui image" src="../images/proj3-sudoku.png">
 
-For one of the last few assignments for ICS 211, we had to create a sudoku solver using recursion. If given an input of a 9x9 array of array of numbers, it should recursively solve the puzzle by "brute force" methodology. If there are any missing or invalid values, the function should fill in the function with valid numbers and still complete the sukoku puzzle. It should then print the sudoku puzzle as an actual board in the console. If the puzzle is unsolvable then the function would quit and the console would print unsolveable. The inputs and some of the harder code were provided to us, but the actual solving was up to us to figure out.
+For one of the last few assignments for ICS 211, we had to create a sudoku solver using recursion. If given an input of a 9x9 array of array of numbers, it should recursively solve the puzzle by "brute force" methodology. If there are any missing or invalid values, the function should fill in the function with valid numbers and still complete the sukoku puzzle. It should then print the sudoku puzzle as an actual board in the console. If the puzzle is unsolvable then the function would quit and the console would print unsolveable. 
 
 This project assignment was also another milestone of my computer science career, as this project truly challenged my knowledge of Java. We also learned a great deal about optimization and why recursion can be dangerous if not used properly, or if there is no quit method if the base condition is met. One of the test inputs our professor provided took almost an hour to solve! I remember when I finally figured it out, I was so excited and happy that I decided to reward myself with a nap. 
 
