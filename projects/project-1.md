@@ -20,4 +20,4 @@ One of the projects we were assigned in ICS 111 was a custom project that could 
 
 Retrospectively, it is a very basic program and there are a lot of things that I want to go back and change about it, but it gives me something to look back on, and reminds myself that I must improve my coding literacy and fluency. I have added a video of the gameplay below:
 
-<div style="position:relative;height:0;padding-bottom:56.24%"><iframe src="https://www.youtube.com/embed/7Q8WPcMoNAA?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+https://www.youtube.com/watch?v=7Q8WPcMoNAA
