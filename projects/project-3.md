@@ -19,5 +19,5 @@ For one of the last few assignments for ICS 211, we had to create a sudoku solve
 
 This project assignment was also another milestone of my computer science career, as this project truly challenged my knowledge of Java. We also learned a great deal about optimization and why recursion can be dangerous if not used properly, or if there is no quit method if the base condition is met. One of the test inputs our professor provided took almost an hour to solve! 
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/altonlee/altonlee.github.io/tree/master/projects/project-3-files"><i class="large github icon "></i>altonlee/sudoku-src</a>
 
