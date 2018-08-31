@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/proj3-title.jpg
-title: Recursion Practice
+title: Hexadecimal Sudoku
 permalink: projects/proj-recursion
 # All dates must be YYYY-MM-DD format!
 date: 2017-04-12
@@ -10,7 +10,7 @@ labels:
   - Java
   - Class Project
   - Recursion
-summary: A project assignment aimed to practice recursion. 
+summary: Part sudoku solver, part recursion practice.
 ---
 
 <img class="ui image" src="../images/proj3-sudoku.png">
