@@ -29,19 +29,20 @@
   },
   "interests": [
     {
-      "name": "C",
-      "keywords": [
-      ]
+      "name": "Coding",
+      "keywords": ["C",
+                  "Java",
+                  "Javascript"]
     },
     {
-      "name": "Java",
-      "keywords": [
-      ]
+      "name": "Video Games",
+      "keywords": ["FPS",
+                  "Survival",
+                  "RPG"]
     },
     {
       "name": "understanding how things work",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "skills": [
@@ -57,8 +58,7 @@
     {
       "name": "Toolsets/OS",
       "level": "",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "education": [
@@ -69,8 +69,7 @@
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -86,18 +85,7 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    }
-  ],
+  "volunteer": [],
   "awards": [
     {
       "title": "",
