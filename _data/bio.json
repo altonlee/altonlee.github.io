@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://altonlee.github.io/images/42733452.jpg",
     "email": "altonlee@hawaii.edu",
-    "phone": "808-728-2575",
+    "phone": "",
     "website": "https://altonlee.github.io",
     "summary": "Hiya! I'm Alton, studying for a B.S. in Computer Science at University of Hawaii at Manoa. Scheduled to graduate by Fall, 2020",
     "location": {
@@ -86,8 +86,8 @@
       "company": "Department of Parks and Recreation",
       "position": "Summer Aide II",
       "website": "",
-      "startDate": "5/23/18",
-      "endDate": "8/3/18",
+      "startDate": "2017",
+      "endDate": "2018",
       "summary": "Providing entertainment in a fun and safe environment for children, ages ranging from Kindergarten to Grade 7.",
       "highlights": [
         "Planning fun and safe games and activities for the kids to do",
