@@ -6,7 +6,7 @@
     "email": "altonlee@hawaii.edu",
     "phone": "",
     "website": "https://altonlee.github.io",
-    "summary": "Hiya! I'm Alton, studying for a B.S. in Computer Science at University of Hawaii at Manoa. Scheduled to graduate by Fall, 2020",
+    "summary": "Hiya! I'm Alton, studying for a B.S. in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -41,8 +41,7 @@
                   "RPG"]
     },
     {
-      "name": "understanding how things work",
-      "keywords": []
+      "name": "website design",
     }
   ],
   "skills": [
