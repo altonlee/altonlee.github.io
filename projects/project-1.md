@@ -18,4 +18,4 @@ summary: A simple game created in Java
 
 One of the projects we were assigned in ICS 111 was a custom project that could have any direction that my group wanted to take it. Although the outcome wasn't a difficult program to create nor a hard game to play, it was one of the major milestones in my life as a programmer where it challenged my knowledge of Java up to that point. 
 
-Retrospectively, it is a very basic program and there are a lot of things that I want to go back and change about it, but it gives me something to look back on, and reminds myself that I have improved in coding literacy and fluency. 
+Retrospectively, it is a very basic program and there are a lot of things that I want to go back and change about it, but it gives me something to look back on, and reminds myself that I must improve my coding literacy and fluency. 
