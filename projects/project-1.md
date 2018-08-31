@@ -14,7 +14,7 @@ labels:
 summary: A simple game created in Java
 ---
 
-<img class="ui medium right floated rounded image" src="../images/proj1-title.png">
+<img class="ui medium right floated rounded image" src="../images/proj1-game.png">
 
 One of the projects we were assigned in ICS 111 was a custom project that could have any direction that my group wanted to take it. Although the outcome wasn't a difficult program to create nor a hard game to play, it was one of the major milestones in my life as a programmer where it challenged my knowledge of Java up to that point. 
 
