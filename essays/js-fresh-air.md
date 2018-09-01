@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui image" src="../images/essay2-img.png">
+<img class="ui image" src="../images/essay2-header.png">
 
 ## Introduction
 
