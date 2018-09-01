@@ -8,7 +8,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui medium floated imag" src="../images/essay2-img.png">
+<img class="ui medium floated image" src="../images/essay2-img.png">
 
 My first coding language was C#, back when I tried to create a video game using the Unity engine back in the summer of my junior year of high school. I found C# to be incredibly hard to use, mostly because I had not started with the basics and also because I solely relied on YouTube video comments for learning, and gave up on my simple maze game after a month of development. Fast forward to second semester. I got to revisit the C language in my EE160 class, and although it was simple and easy to pick up, I absolutely hated the UI and how pointers and headers worked (the C IDE had small font that seemed impossible to change, so that sucked). 
 
