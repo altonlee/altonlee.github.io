@@ -3,13 +3,13 @@ layout: essay
 type: essay
 title: JavaScript - A Breath of Fresh Air
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-30
+date: 2018-08-31
 labels:
   - Introduction
   - Software Engineering
 ---
 
-<img class="ui medium left floated image" src="../images/essay2-img.png">
+<img class="ui image" src="../images/essay2-img.png">
 
 ## Introduction
 
