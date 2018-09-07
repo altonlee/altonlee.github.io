@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui image" src="../images/essay2-header.png">
+<img class="ui image" src="../images/essay3-header.jpg">
 
 ## What is a Dumb Question?
 
@@ -17,9 +17,16 @@ When I was a kid, my dad would always tell me: "Son, don't ask any dumb question
 
 ## A Great Question
 
-In Eric Raymond's [How to ask questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html), 
+In Eric Raymond's [How to ask questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html), he writes that there are many key components to a question worth answering to. 
+
+https://stackoverflow.com/questions/51480113/onlogn-algorithm-runs-faster-than-on-wait-what/51480351#51480351
+
+https://stackoverflow.com/questions/37738272/can-varnish-cache-be-hacked
 
 
+
+
+https://stackoverflow.com/questions/1364444/difference-between-big-o-and-little-o-notation
 
 
 
