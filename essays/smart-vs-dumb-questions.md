@@ -20,15 +20,15 @@ Though, what properties make a question worthy enough of attention and a great a
 
 ## A [BAD](https://stackoverflow.com/questions/49079122/i-need-help-understanding-train-test-split) Question
 
-<img class="ui medium image" src="../images/essay3-bad.png">
+<img class="ui image" src="../images/essay3-bad.png">
 In this example, there are a lot of noteable points that are wrong. In order to get any clicks on a query, the title header should be meaningful and specific, not a cry for help. Grammar should be clear and informative, and noted somewhere in the post that there was an attempt to understand and solve the problem. When posting a question, only post the symptoms of the problem, not guesses on why the program doesn't work. In the link above, the original poster had done none of these, coming off as an impatient student rushing to finish the problem before its due date. To top it off, the poster got hit with the (albeit family-friendly) 'stfw'. Sorry dude.
 
 ## A [GOOD](https://stackoverflow.com/questions/52066965/dependency-not-autowired-in-jsr-303-custom-validator) Question
 
-<img class="ui medium image" src="../images/essay3-good1.png">
+<img class="ui image" src="../images/essay3-good1.png">
 On the contrary, the question above did things right. Titles are comprehensible and his question and description is to the point. There is an intended goal to reach, and he writes his steps out in detail. It is clear he has spent time and effort in attempting to fix this problem himself, although with little success. And to top it off, when replying to comments, he responds positively and politely, which is always appreciated by people trying to solve these problems for free. Good on you, ``cldjr``.
 
-<img class="ui medium image" src="../images/essay3-good2.png">
+<img class="ui image" src="../images/essay3-good2.png">
 
 ## Conclusion
 
