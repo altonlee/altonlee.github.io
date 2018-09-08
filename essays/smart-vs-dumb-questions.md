@@ -28,17 +28,8 @@ On the contrary, the question above did things right. Titles are comprehensible 
 <img class="ui medium image" src="../images/essay3-good2.png">
 
 ## Conclusion
+
 In reality, there is no such thing as a bad question. All questions lead to some sort of answer, but the quality of the answer is only as good as its question. From this experience, I learned that attempting to research and solve the problem beforehand, choosing the right words for asking an online audience, and being polite are all keys to success in making a question worthy of attention and a great answer. 
 
+
 Another piece of advice my dad gave me was, "There are a million different ways of saying the same thing." Had the posters heeded Eric Raymond's advice and changed how they asked their question, would have saved them time and shame. 
-
-
-
-
-
-
-
-
-
-
-
