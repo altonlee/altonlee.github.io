@@ -6,7 +6,7 @@ title: "What do you want to be when you grow up?"
 date: 2018-08-30
 labels:
   - Introduction
-  - Software Engineering
+  - Programming
 ---
 
 <img class="ui medium left floated image" src="../images/essay1-game.jpg">
