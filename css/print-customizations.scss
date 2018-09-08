@@ -1,14 +1,10 @@
 ---
 # Provide front matter so Jekyll processes this file as SASS.
 ---
+// Put your custom CSS for printing pages here.
 
 @media print {
-
-
-
   h1, h2.ui.header, h3.ui.header {
     color: #FFFFFF;;
   }
 }
-
-// Put your custom CSS for printing pages here.
