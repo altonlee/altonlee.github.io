@@ -5,7 +5,7 @@ title: JavaScript - A Breath of Fresh Air
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-31
 labels:
-  - Introduction
+  - JavaScript
   - Software Engineering
 ---
 
