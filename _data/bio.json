@@ -83,16 +83,43 @@
   "work": [
     {
       "company": "Department of Parks and Recreation",
-      "position": "Summer Aide II",
+      "position": "Summer Aide",
       "website": "",
       "startDate": "2017",
       "endDate": "2018",
       "summary": "Providing entertainment in a fun and safe environment for children, ages ranging from Kindergarten to Grade 7.",
       "highlights": [
-        "Planning fun and safe games and activities for the kids to do",
-        "Managing the teenage leaders to take care of the kids' needs and other small tasks",
-        "Leadership training",
-        "Professional goofing"
+        "Teach classes for children in arts and crafts, music and dance, sports and games", 
+        "Create, plan, and manage lesson plans and activities, such as assemblies and a Finale program",
+        "Provide general supervision and entertainment for children and teens, ages ranging from 5 - 17",
+        "Must be enthusiastic, patient, and have a desire for child growth and development"
+      ]
+    },
+    {
+      "company": "Department of Parks and Recreation",
+      "position": "Groundskeeper",
+      "website": "",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "Groundskeeper at Kaimuki Community Park",
+      "highlights": [
+        "Maintain park equipment and facility (gym, tennis and basketball courts, classrooms)",
+        "Oversee activities run within park",
+        "General supervision",
+        "First aid certified"
+      ]
+    },
+    {
+      "company": "Hawaii State Public Library System",
+      "position": "Library Helper I",
+      "website": "",
+      "startDate": "2015",
+      "endDate": "2017",
+      "summary": "Librarian Assistant at Kaimuki Public Library",
+      "highlights": [
+        "Collect, organize, and shelve books within library",
+        "Organize shipment to and from outside liraries (in and out-of-island",
+        "Other minor tasks"
       ]
     }
   ],
