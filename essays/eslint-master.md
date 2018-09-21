@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="ui medium left floated image" src="../images/essay1-game.jpg">
+<img class="ui medium floated image" src="../images/essay4-header.jpg">
 
 ## Trauma
 
@@ -32,6 +32,8 @@ Coding standards are a lot like Mr. Miyagi from Karate Kid. It's strict, dauntin
 The UI used in my Engineering class was incredibly bare bones, hardly telling you what was wrong with the program until you ran it and got hit with the ``ERROR`` messages. Annoying as that was, had I added proper indentions and easier-to-recognize variables, I would have turned in the program early and taken a nap till the next week. Luckily, JavaScript has its Mr. Miyagi. 
 
 ## Benefits of Coding Standards
+
+<img class="ui medium floated image" src="../images/essay4-group.png">
 
 I talk a lot, but what are the benefits of applying rules to code? I've listed what I think the important benefits are here: 
 
