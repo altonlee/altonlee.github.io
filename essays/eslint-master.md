@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="ui medium middle image" src="../images/essay4-header.jpg">
+<img class="ui image" src="../images/essay4-header.jpg">
 
 ## Trauma
 
@@ -33,7 +33,7 @@ The UI used in my Engineering class was incredibly bare bones, hardly telling yo
 
 ## Benefits of Coding Standards
 
-<img class="ui medium middle image" src="../images/essay4-group.png">
+<img class="ui small right image" src="../images/essay4-group.png">
 
 I talk a lot, but what are the benefits of applying rules to code? I've listed what I think the important benefits are here: 
 
@@ -43,6 +43,9 @@ I talk a lot, but what are the benefits of applying rules to code? I've listed w
   <li>Builds team efficiency and workflow.</li>
   <li>Looks nicer.</li>
 </ul> 
+
+
+
 
 ## ESLint
 Using ESLint with IntelliJ has been a lifesaver. Personally, I appreciate the ESLint alerts since I can be a clutz when it comes to remembering variable names, but the lightbulbs are distracting. Overall, my experience with ESLint has been mostly positive and I will continue using it. The few projects we have done for ICS 314 have warranted some easy-to-miss mistakes, so the Miyagi-esque enforcement is appreciated. 
