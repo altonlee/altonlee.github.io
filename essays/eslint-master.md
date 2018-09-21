@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="ui medium floated image" src="../images/essay4-header.jpg">
+<img class="ui medium middle image" src="../images/essay4-header.jpg">
 
 ## Trauma
 
@@ -33,7 +33,7 @@ The UI used in my Engineering class was incredibly bare bones, hardly telling yo
 
 ## Benefits of Coding Standards
 
-<img class="ui medium floated image" src="../images/essay4-group.png">
+<img class="ui medium middle image" src="../images/essay4-group.png">
 
 I talk a lot, but what are the benefits of applying rules to code? I've listed what I think the important benefits are here: 
 
