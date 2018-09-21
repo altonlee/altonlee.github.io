@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The ESLint Master
+title: Indent ON, Indent OFF
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-20
 labels:
@@ -29,13 +29,13 @@ Coding standards are a lot like Mr. Miyagi from Karate Kid. It's strict, dauntin
   <li>Keep a consistent style of code throughout the program.</li>
 </ul> 
 
-The UI used in my Engineering class was incredibly bare bones, hardly telling you what was wrong with the program until you ran it and got hit with the ``ERROR`` messages. Annoying as that was, had I added proper indentions and easier-to-recognize variables, I would have turned in the program early and taken a nap till the next week. Luckily, JavaScript has its Mr. Miyagi. 
+The UI used in my Engineering class was incredibly bare bones, hardly telling you what was wrong with the program until you ran it and got hit with the ``ERROR`` messages. Annoying as that was, had I added proper indentions and easier-to-recognize variables, I would have turned in the program early and taken a nap till the next week. Luckily, IntelliJ has its Mr. Miyagi. 
 
 ## Benefits of Coding Standards
 
 <img class="ui small right floated image" src="../images/essay4-group.png">
 
-I talk a lot, but what are the benefits of applying rules to code? I've listed what I think the important benefits are here: 
+I've listed what I think the important benefits are here: 
 
  <ul>
   <li>Improve a programmer's code literacy.</li>
@@ -44,6 +44,8 @@ I talk a lot, but what are the benefits of applying rules to code? I've listed w
   <li>Looks nicer.</li>
 </ul> 
 
+Whether you agree with these or not is entirely up to you. 
+
 ## ESLint
 Using ESLint with IntelliJ has been a lifesaver. Personally, I appreciate the ESLint alerts since I can be a clutz when it comes to remembering variable names, but the lightbulbs are distracting. Overall, my experience with ESLint has been mostly positive and I will continue using it. The few projects we have done for ICS 314 have warranted some easy-to-miss mistakes, so the Miyagi-esque enforcement is appreciated. 
 
@@ -51,13 +53,7 @@ Using ESLint with IntelliJ has been a lifesaver. Personally, I appreciate the ES
   return _.reduce(num);
 }``
 
-If I time traveled back to EE160 and typed this out, nothing would be highlighted and there would be no red squiggly line to scream at me for being illiterate. And although the squigglies mean very little right now (as most of them had been petty little spacing issues), I guarantee they will be important in much bigger and longer code. So don't be gun-shy with the longer names! Coding standards are timeless, and help out in the long run. 
-
-
-
-
-
-
+If I time traveled back to EE160 and typed this out, nothing would be highlighted and there would be no red squiggly line to scream at me for being illiterate. And although the squigglies mean very little right now (as most of them had been petty little spacing issues), I guarantee they will be important in much bigger and longer code. So don't be gun-shy with longer names! Coding standards are timeless, and help out in the long run. 
 
 
 
