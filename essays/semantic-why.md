@@ -10,7 +10,7 @@ labels:
   - CSS
 ---
 
-<img class="ui center floated image" src="../images/essay5-header.png">
+<img class="ui middle floated image" src="../images/essay5-header.png">
 
 ## Calculus
 
@@ -26,7 +26,7 @@ Nevertheless, the first thing I want to point out is the user-friendlyness of im
 
 From a glance, you can tell almost exactly what is being implemented, without the hassle or confusion of regular CSS code. 
 
-<img class="ui center floated image" src="../images/essay5-import.png">
+<img class="ui middle floated image" src="../images/essay5-import.png">
 
 Importing the library is also as simple as adding a few lines of code! A powerful toolkit for the price of three lines of code. 
 
@@ -38,10 +38,10 @@ Which of these websites would a normal, Internet-savvy consumer prefer?:
 
 <div class="row">
   <div class="column">
-    <img class="ui center floated image" src="../images/essay5-islandsnow.png">
+    <img class="ui left floated image" src="../images/essay5-islandsnow.png">
   </div>
   <div class="column">
-    <img class="ui center floated image" src="../images/essay5-basic-html.png">
+    <img class="ui right floated image" src="../images/essay5-basic-html.png">
   </div>
 </div>
 
