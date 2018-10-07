@@ -10,7 +10,7 @@ labels:
   - CSS
 ---
 
-<img class="ui center floated image src="../images/essay5-header.png">
+<img class="ui center floated image" src="../images/essay5-header.png">
 
 ## Calculus
 
