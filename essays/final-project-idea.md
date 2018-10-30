@@ -1,17 +1,16 @@
-
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: Final Project Idea
 date: 2018-10-30
 labels:
   - Software Engineering
   - Meteor
 ---
 
-## Overview 
-
 <img class="ui image" src="https://i2.wp.com/miamistudent.net/wp-content/uploads/2015/03/trash.jpg?fit=900%2C600">
+
+## Overview 
  
  Currently, trash audits across UH campuses have a very primitive way of storing and calculating data. It consists of a single piece of paper and one very hard working individual. One representative is in search of a more streamlined solution of storing the data. 
 
