@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/proj1-title.png
-title: Super Mario Flight Simulator
-permalink: projects/111proj
+title: Video Game Animations
+permalink: projects/animations
 # All dates must be YYYY-MM-DD format!
 date: 2017-09-14
 labels:
