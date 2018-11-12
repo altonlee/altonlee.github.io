@@ -10,6 +10,7 @@ labels:
   - Java
   - Class Project
   - Recursion
+  
 summary: Part sudoku solver, part recursion practice. A homework assignment from my ICS 211 class.
 ---
 

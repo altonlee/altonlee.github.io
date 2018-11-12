@@ -9,6 +9,7 @@ date: 2018-08-03
 labels:
   - Group Management
   - Activity Planning
+  
 summary: Although not a project related to computer science, I have learned invaluable skills that helped shape me as a person.
 ---
 

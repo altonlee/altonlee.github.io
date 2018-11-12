@@ -29,7 +29,7 @@ Coding standards are a lot like Mr. Miyagi from Karate Kid. It's strict, dauntin
   <li>Keep a consistent style of code throughout the program.</li>
 </ul> 
 
-The UI used in my Engineering class was incredibly bare bones, hardly telling you what was wrong with the program until you ran it and got hit with the ``ERROR`` messages. Annoying as that was, had I added proper indentions and easier-to-recognize variables, I would have turned in the program early and taken a nap till the next week. Luckily, IntelliJ has its Mr. Miyagi. 
+The UI used in my Engineering class was incredibly bare bones, hardly telling you what was wrong with the program until you ran it and got hit with the ``ERROR`` messages. Annoying as that was, had I added proper indention and easier-to-recognize variables, I would have turned in the program early and taken a nap till the next week. Luckily, IntelliJ has its Mr. Miyagi. 
 
 ## Benefits of Coding Standards
 
@@ -47,7 +47,7 @@ I've listed what I think the important benefits are here:
 Whether you agree with these or not is entirely up to you. 
 
 ## ESLint
-Using ESLint with IntelliJ has been a lifesaver. Personally, I appreciate the ESLint alerts since I can be a clutz when it comes to remembering variable names, but the lightbulbs are distracting. Overall, my experience with ESLint has been mostly positive and I will continue using it. The few projects we have done for ICS 314 have warranted some easy-to-miss mistakes, so the Miyagi-esque enforcement is appreciated. 
+Using ESLint with IntelliJ has been a lifesaver. Personally, I appreciate the ESLint alerts since I can be a ditz when it comes to remembering variable names, but the lightbulbs are distracting. Overall, my experience with ESLint has been mostly positive and I will continue using it. The few projects we have done for ICS 314 have warranted some easy-to-miss mistakes, so the Miyagi-esque enforcement is appreciated. 
 
 ``function numAdd(nums) {
   return _.reduce(num);

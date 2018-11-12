@@ -30,18 +30,21 @@
   "interests": [
     {
       "name": "Software Engineering",
-      "keywords": ["C",
-                  "Java",
-                  "Javascript"]
+      "keywords": [
+        "C",
+        "Javascript",
+        "HTML/CSS"
+      ]
     },
     {
       "name": "Video Game Design",
-      "keywords": ["FPS",
-                  "Platformer",
-                  "RPG"]
+      "keywords": [
+        "FPS",
+        "Animations"
+      ]
     },
     {
-      "name": "website design",
+      "name": "website design"
     }
   ],
   "skills": [
@@ -51,7 +54,8 @@
       "keywords": [
         "C",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML/CSS"
       ]
     },
     {
@@ -60,7 +64,7 @@
       "keywords": [
         "Windows",
         "Eclipse",
-        "GitHub"
+        "Github"
       ]
     }
   ],
@@ -69,7 +73,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "2016-08-22",
+      "startDate": "2016",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -89,7 +93,7 @@
       "endDate": "2018",
       "summary": "Summer Fun Leader during Summer 2017 and Summer 2018.",
       "highlights": [
-        "Teach classes for children in arts and crafts, music and dance, sports and games", 
+        "Teach classes for children in arts and crafts, music and dance, sports and games",
         "Create, plan, and manage lesson plans and activities, such as assemblies and a Finale program",
         "Provide general supervision and entertainment for children and teens, ages ranging from 5 - 17",
         "Must be enthusiastic, patient, and have a desire for child growth and development"
@@ -120,6 +124,22 @@
         "Collect, organize, and shelve books within library",
         "Organize shipment to and from outside liraries (in and out-of-island",
         "Other minor tasks"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "HACC Frontend Developer and Participant",
+      "startDate": "",
+      "endDate": "2018",
+      "summary": "Participated in the 2018 Hawaii Annual Code Challenge.",
+      "highlights": [
+        "Frontend developer for Team O.W.O.",
+        "Created Heat Map of trash per building",
+        "Fixed some broken lines of code",
+        "Actor and professional cheerleader"
       ]
     }
   ],

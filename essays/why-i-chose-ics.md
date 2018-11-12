@@ -19,7 +19,7 @@ From then on, I got all sorts of games and systems to play on, and I was the hap
 
 “What do you want to be when you grow up?”
 
-## School Existential Crises
+## Existential Crises
 
 Honestly, I have never had a great ambition for much else; I never enjoyed drawing, or doing math, outdoor sports, or reading a book. I figured I could just blow it off and continue my lax life of hanging out with friends and playing video games all the time. But my addiction to video games had only gotten worse; I started playing games on the family computer almost daily, my grades were dropping, and my parents weren’t very thrilled about any of this. But it was from my transition to computer games that really piqued my interest in computers in general. I learned to (lightly) code when I wanted to learn how to create my own video game in Unity, doing texture work to replace character textures in a zombie game, and changing the weights and powers of items in another Mario game. 
 

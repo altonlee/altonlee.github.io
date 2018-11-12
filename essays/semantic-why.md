@@ -14,13 +14,13 @@ labels:
 
 ## Calculus
 
-In Calculus I, the first lesson taught is limits. Personally, it was the most frustrating concept for me because there seemed to be a lot of rules and exceptions to remember. The notation was also irritating to write because it's inconventient, and also because I have fat handwriting, and writing the limit notation would always take a line and a half. But never mind my fat handwriting.
+In Calculus I, the first lesson taught is limits. Personally, it was the most frustrating concept for me because there seemed to be a lot of rules and exceptions to remember. The notation was also irritating to write because it's inconvenient, and also because I have fat handwriting, and writing the limit notation would always take a line and a half. But never mind my fat handwriting.
 
 Learning HTML and CSS has been fun and interesting, but I noticed that writing out certain elements to use on a site are difficult to implement and/or is  confusing, much like limits was. This is where UI Frameworks comes in. Frameworks, like Semantic UI and Twitter Bootstrap, are tools for a skillset, much like theorems for definitions in Calculus. They are "shortcuts" for solving problems without the hassle of writing out lines of definitions. And although learning the shortcuts and tricks in itself can be just as frustrating, if not more, it can result in saving a few grey hairs and brain cells in the long run. I will be highlighting the few points that make Semantic UI worth learning and using.
 
 ## Idiot-Friendly 
 
-Nevertheless, the first thing I want to point out is the user-friendlyness of implementing otherwise tricky and difficult elements of a website. It is also stupid easy to understand what the developer is trying to implement:
+Nevertheless, the first thing I want to point out is the user-friendliness of implementing otherwise tricky and difficult elements of a website. It is also stupid easy to understand what the developer is trying to implement:
 
 ``ui borderless menu``
 
