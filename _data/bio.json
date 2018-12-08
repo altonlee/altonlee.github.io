@@ -44,7 +44,12 @@
       ]
     },
     {
-      "name": "website design"
+      "name": "website design",
+      "keywords": [
+        "Meteor",
+        "React",
+        "Semantic UI"
+      ]
     }
   ],
   "skills": [
@@ -64,7 +69,9 @@
       "keywords": [
         "Windows",
         "Eclipse",
-        "Github"
+        "Github",
+        "Meteor",
+        "React"
       ]
     }
   ],
@@ -85,6 +92,19 @@
     }
   ],
   "work": [
+    {
+      "company": "Teapresso Bar",
+      "position": "Barista",
+      "website": "",
+      "startDate": "2018",
+      "endDate": "Present",
+      "summary": "Barista at Teapresso Bar on Waialae Ave, Honolulu, HI.",
+      "highlights": [
+        "Take orders of drinks ranging from milk teas to smoothies",
+        "Take inventory of stock and count profits for the day",
+        "Gain experience in professionalism and interacting with customers"
+      ]
+    },
     {
       "company": "Department of Parks and Recreation",
       "position": "Summer Aide",

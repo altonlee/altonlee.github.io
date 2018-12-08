@@ -36,16 +36,12 @@ You can also mix and match classes together to create even more interesting elem
 
 Which of these websites would a normal, Internet-savvy consumer prefer?:
 
-<div class="row">
-  <div class="column">
-    <img class="ui left floated image" src="../images/essay5-islandsnow.png">
-  </div>
-  <div class="column">
-    <img class="ui right floated image" src="../images/essay5-basic-html.png">
-  </div>
+<div "ui medium rounded images">
+  <img class="ui image" src="../images/essay5-islandsnow.png">
+  <img class="ui image" src="../images/essay5-basic-html.png">
 </div>
 
-If you picked the right, you may need to go exploring the internet a bit more, you heathen. For the rest of the audience, this is an excellent showcase of the power of customization provided by Semantic UI. It is a (albeit incomplete) replica of a website completely created using basic HTML and Semantic UI. There are many other options as well, but you may need to try those out for yourself. 
+If you picked the latter, you may need to go exploring the internet a bit more, you heathen. For the rest of the audience, this is an excellent showcase of the power of customization provided by Semantic UI. It is a (albeit incomplete) replica of a website completely created using basic HTML and Semantic UI. There are many other options as well, but you may need to try those out for yourself. 
 
 ## Conclusion
 

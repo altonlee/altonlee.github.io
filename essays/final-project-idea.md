@@ -6,11 +6,14 @@ date: 2018-10-30
 labels:
   - Software Engineering
   - Meteor
+  - React
 ---
 
 <img class="ui image" src="https://i2.wp.com/miamistudent.net/wp-content/uploads/2015/03/trash.jpg?fit=900%2C600">
 
 ## Overview 
+
+UPDATE: You can view the finished application <a href="owo.meteorapp.com">here!</a>
  
  Currently, trash audits across UH campuses have a very primitive way of storing and calculating data. It consists of a single piece of paper and one very hard working individual. One representative is in search of a more streamlined solution of storing the data. 
 
@@ -37,5 +40,12 @@ Users can either log in or register as a new user. As a logged in user, they hav
   <li>Projections of possible impacts on the campus and environment</li>
 </ul>
 
+## The Finished Product
 
+<div class="ui small rounded images">
+  <img class="ui image" src="https://oahu-waste-organizer.github.io/images/landing.PNG">
+  <img class="ui image" src="https://oahu-waste-organizer.github.io/images/charts.PNG">
+  <img class="ui image" src="https://oahu-waste-organizer.github.io/images/input.PNG">
+</div>
 
+You can view the current deployed app <a href="owo.meteorapp.com">here.</a>
