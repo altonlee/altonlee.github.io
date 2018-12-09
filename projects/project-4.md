@@ -11,7 +11,6 @@ labels:
   - Meteor
   - React
   - Semantic UI
-  
 summary: Our motto: "Make trash data look pretty".
 ---
 
