@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/proj4-title.png
-title: Oahu Waste Organizer
+image: images/proj3-title.jpg
+title: Hexadecimal Sudoku
 permalink: projects/organizer
 # All dates must be YYYY-MM-DD format!
-date: 2018-12-06
+date: 2017-04-12
 labels:
-  - Javascript
-  - Meteor
-  - React
-  - Semantic UI
-summary: Our motto: "Make trash data look pretty".
+  - Java
+  - Class Project
+  - Recursion
+  
+summary: Part sudoku solver, part recursion practice. A homework assignment from my ICS 211 class.
 ---
 
 # About Oahu Waste Organizer
