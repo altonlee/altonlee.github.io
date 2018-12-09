@@ -36,7 +36,7 @@ You can also mix and match classes together to create even more interesting elem
 
 Which of these websites would a normal, Internet-savvy consumer prefer?:
 
-<div "ui medium rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/essay5-islandsnow.png">
   <img class="ui image" src="../images/essay5-basic-html.png">
 </div>
