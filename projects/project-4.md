@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/proj4-title.png
 title: Oahu Waste Organizer
-permalink: projects/proj-recursion
+permalink: projects/organizer
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-06
 labels:
