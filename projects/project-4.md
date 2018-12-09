@@ -16,7 +16,7 @@ summary: Make trash look pretty. A Final project assignment from my ICS 314 clas
 
 <img class="ui centered large image" src="https://oahu-waste-organizer.github.io/images/logo.png">
 
-View our application <a href="owo.meteorapp.com">here!</a>
+View our application <a href="http://owo.meteorapp.com">here!</a>
 
 For our ICS 314 final assignment, our job was to develop an application with the goal to improve an aspect of the UH community. 
 
@@ -28,8 +28,8 @@ Our final project consists of members Alton Lee, Emily Pang, and Jake Weber. Thi
 
 ## Links
 <ul>
-  <li><a href="owo.meteorapp.com">Deployed app</a></li>
-  <li><a href="github.com/oahu-waste-organizer">GitHub page</a></li>  
+  <li><a href="http://owo.meteorapp.com">Deployed app</a></li>
+  <li><a href="http://www.github.com/oahu-waste-organizer/oahu-waste-organizer">GitHub page</a></li>  
 </ul>
 
 ## How it works
@@ -39,24 +39,32 @@ All users can view details of past and upcoming waste audit events within the UH
 
 Graphs reflect either weight or volume data of each category. Users can also view the breakdown a category of trash using the bar graph on the right. 
 
+
+
 <img class="ui centered image" src="https://oahu-waste-organizer.github.io/images/charts.PNG">
 
 Since gathering data about the types of trash per building within a UH campus is a pretty big deal, we locked our input page behind user accounts. There are two types of user accounts. Regular users have access to the Input page, which is our main purpose of our application.
+
 
 <img class="ui centered image" src="https://oahu-waste-organizer.github.io/images/input.PNG">
 
 Admins have access to the Event Manager, where admins can create or edit events. The Events page also has shortcuts to editing and creating events as well. 
 
-<div class="ui medium rounded images">
+
+<div class="ui large rounded images">
   <img class="ui image" src="https://oahu-waste-organizer.github.io/images/events-manager.PNG">
   <img class="ui image" src="https://oahu-waste-organizer.github.io/images/admin-events.PNG">
 </div>
 
 And last but not least, all users have access to the Dashboard, an in-depth statistics page that displays all audit data in a convenient manner. 
 
+
+
 <img class="ui centered image" src="https://oahu-waste-organizer.github.io/images/dashboard.PNG">
 
 The application was developed over the span of three weeks. Although there are some bugs and features we haven't been able to implement, we would like to develop the application further in the future. 
+
+
 
 ## My Contributions
 Some features I developed:
