@@ -29,38 +29,36 @@
   },
   "interests": [
     {
-      "name": "Software Engineering",
+      "name": "Programming",
       "keywords": [
-        "C",
-        "Javascript",
-        "HTML/CSS"
+        "JavaScript",
+        "C/C++"
       ]
     },
     {
-      "name": "Video Game Design",
+      "name": "Video game design",
       "keywords": [
-        "FPS",
+        "Level Design",
         "Animations"
       ]
     },
     {
-      "name": "website design",
+      "name": "Website design",
       "keywords": [
-        "Meteor",
-        "React",
-        "Semantic UI"
+        "HTML",
+        "CSS"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages & Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "Java",
-        "Javascript",
-        "HTML/CSS"
+        "C/C++",
+        "Java/JavaScript",
+        "HTML/CSS",
+        "Python"
       ]
     },
     {
@@ -68,10 +66,8 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Eclipse",
-        "Github",
-        "Meteor",
-        "React"
+        "Git/GitHub",
+        "IntelliJ"
       ]
     }
   ],
@@ -82,12 +78,11 @@
       "studyType": "B.S.",
       "startDate": "2016",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.1",
       "courses": [
-        "ICS 111",
-        "ICS 141",
-        "ICS 211",
-        "ICS 241"
+        "ICS 311",
+        "ICS 212",
+        "ICS 414"
       ]
     }
   ],
@@ -102,7 +97,7 @@
       "highlights": [
         "Take orders of drinks ranging from milk teas to smoothies",
         "Take inventory of stock and count profits for the day",
-        "Gain experience in professionalism and interacting with customers"
+        "Gain experience in professionalism and customer service"
       ]
     },
     {
@@ -110,8 +105,8 @@
       "position": "Summer Aide",
       "website": "",
       "startDate": "2017",
-      "endDate": "2018",
-      "summary": "Summer Fun Leader during Summer 2017 and Summer 2018.",
+      "endDate": "2019",
+      "summary": "Summer Fun Leader during Summers 2017, 2018, and 2019.",
       "highlights": [
         "Teach classes for children in arts and crafts, music and dance, sports and games",
         "Create, plan, and manage lesson plans and activities, such as assemblies and a Finale program",
@@ -147,7 +142,19 @@
       ]
     }
   ],
-  "volunteer": [
+  "activities": [
+    {
+      "organization": "Grey Hats @ ACM Manoa",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "2019",
+      "summary": "Member of Grey Hats",
+      "highlights": [
+        "Participated in club activities",
+        "Learned about cyber lockpicking and other hacking techniques"
+      ]
+    }
     {
       "organization": "",
       "website": "",
