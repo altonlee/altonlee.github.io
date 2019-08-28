@@ -144,17 +144,17 @@
   ],
   "activities": [
     {
-      "organization": "Grey Hats @ ACM Manoa",
+      "organization": "",
       "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "2019",
+      "position": "Grey Hats Member @ ACM Manoa",
+      "startDate": "2019",
+      "endDate": "",
       "summary": "Member of Grey Hats",
       "highlights": [
         "Participated in club activities",
         "Learned about cyber lockpicking and other hacking techniques"
       ]
-    }
+    },
     {
       "organization": "",
       "website": "",
