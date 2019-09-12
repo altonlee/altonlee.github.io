@@ -14,7 +14,7 @@ labels:
 summary: Create exportable events with ease. An HTML and JS-based project for ICS 414. 
 ---
 
-<img class="ui image" src="https://imgur.com/XiilLbR">
+<img class="ui image" src="https://i.imgur.com/XiilLbR.png">
 
 You can view the repo <a href="https://github.com/crisnow/Team_Penne">here!</a>
 
@@ -26,10 +26,10 @@ We based our app around Google Calendar, which has lots of options for dates, ti
 
 The app also has options for recursion, which can be as simple as weekly, or as complex as every Tuesday and Thursday every other three weeks. 
 
-<img class="ui image" src="https://imgur.com/T8Z7yWK">
+<img class="ui image" src="https://i.imgur.com/T8Z7yWK.png">
 
 Lastly, the app has options for visibility and priority, and has limited Time Zone options. 
 
-<img class="ui image" src="https://imgur.com/JwliUe8">
+<img class="ui image" src="https://i.imgur.com/JwliUe8.png">
 
 If all inputs are correct, then the file will spit out a filename.ics file containing all of the event data. The file will then be available to import into any calendar app of the user's choice. This program is a result of five weeks working together with Team Penne. My contributions include working on UI, and implementing recurrence, visibility, priority, and time zone options. 

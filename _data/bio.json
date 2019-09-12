@@ -80,13 +80,9 @@
       "endDate": "Present",
       "gpa": "3.1",
       "courses": [
-        "ICS 111/141",
-        "ICS 211/241",
-        "ICS 311",
-        "ICS 212",
-        "ICS 321",
-        "ICS 332",
-        "ICS 314/414"
+        "ICS 111, 141, 211, 212, 241",
+        "ICS 311, 314, 313, 321, 332",
+        "ICS 414, 415, 451"
       ]
     }
   ],
@@ -146,7 +142,7 @@
       ]
     }
   ],
-  "activities": [
+  "volunteer": [
     {
       "organization": "Grey Hats @ ACM Manoa",
       "website": "http://acmanoa.github.io/greyhats/",
