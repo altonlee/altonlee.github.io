@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/proj6-title.png
 title: Calendar Event Creator
-permalink: projects/penne
+permalink: projects/proj-penne
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-31
 labels:

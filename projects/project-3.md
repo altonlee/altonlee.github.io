@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/proj3-title.png
 title: Mario Flight Simulator
-permalink: projects/animations
+permalink: projects/proj-mfs
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-03
 labels:
