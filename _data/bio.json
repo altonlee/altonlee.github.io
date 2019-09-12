@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Programming",
+      "name": "Software Engineering",
       "keywords": [
         "JavaScript",
         "C/C++"
@@ -80,9 +80,13 @@
       "endDate": "Present",
       "gpa": "3.1",
       "courses": [
+        "ICS 111/141",
+        "ICS 211/241",
         "ICS 311",
         "ICS 212",
-        "ICS 414"
+        "ICS 321",
+        "ICS 332",
+        "ICS 314/414"
       ]
     }
   ],
@@ -116,11 +120,11 @@
     },
     {
       "company": "Department of Parks and Recreation",
-      "position": "Groundskeeper",
+      "position": "Gym Staff",
       "website": "",
       "startDate": "2017",
       "endDate": "Present",
-      "summary": "Groundskeeper at Kaimuki Community Park.",
+      "summary": "Gym Staff at Kaimuki Community Park.",
       "highlights": [
         "Maintain park equipment and facility (gym, tennis and basketball courts, classrooms)",
         "Oversee activities run within park",
@@ -144,7 +148,7 @@
   ],
   "activities": [
     {
-      "organization": "",
+      "organization": "Grey Hats",
       "website": "",
       "position": "Grey Hats Member @ ACM Manoa",
       "startDate": "2019",
@@ -156,7 +160,7 @@
       ]
     },
     {
-      "organization": "",
+      "organization": "HACC",
       "website": "",
       "position": "HACC Frontend Developer and Participant",
       "startDate": "",

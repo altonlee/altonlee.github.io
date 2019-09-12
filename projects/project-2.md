@@ -5,17 +5,18 @@ image: images/proj2-summer.jpg
 title: Summer Fun
 permalink: projects/summerfun
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-03
+date: 2017-07-31
 labels:
   - Group Management
   - Activity Planning
   
-summary: Although not a project related to computer science, I have learned invaluable skills that helped shape me as a person.
+summary: Although unrelated to CS, I worked as a Leader from summers 2017 to 2019 and learned invaluable life skills. 
 ---
 
   <img class="ui image" src="../images/proj2-staff.jpg">
 
-For the past two summers, I have worked as a Summer Fun Aide staff at the Kaimuki Park on Waialae Ave. I was a Summer Fun Leader for a group of 1st graders for 6 weeks, from mid-June to end of July. As Summer Fun Leaders, we plan activities to do with the kids daily, which range from arts and crafts, sports and games, and music and dance. I specialized in sports and games, so I planned mostly running games and sports events. As leaders we also manage the teenage volunteers, otherwise known as Junior Leaders, to do small tasks to help with the groups and summer fun in general. 
+For the past three summers, I have worked as a Summer Fun Aide at Kaimuki Community Park here in Honolulu. I have been a Summer Fun Leader for first and second graders for two summers, and the Teen Leader for my last summer. Summer Fun lasts for six weeks, from mid-June to end of July. As Leaders, we must plan daily activities for the kids, which range from arts and crafts, sports and games, and music and dance. We also manage the teenage volunteers, AKA the Jr Leaders, to help us create an enjoyable summer for everyone. As the Teen Leader, I was solely responsible for Kaimuki's Finale 2019, a scripted performance based on Dr. Seuss stories. 
 
-However, working at summer fun has no relation to Computer Science. Or does it? Working at summer fun has given me the opportunity to learn group management and people skills that most other jobs do not offer. It also helped me exercise quick thinking and problem solving when things fall through or don't work out, which happens quite a lot in coding. I have also learned a lot of more personal skills, like being more honest and assertive with others. Many of the skills I have learned after working in summer fun will hopefully propel me towards a great future!
+You may be thinking, what does summer fun have to do with Computer Science? In a general sense, it doesn't. In fact, I sometimes think that a software engineer has no place in a program of screaming kids, future teachers, and moody teenagers. However, working at the park has taught me many interpersonal skills, such as group management, leadership, and "people skills" that other jobs don't have the room for. Summer Fun has helped me exercise quick thinking and problem solving when things stop working, which happens a LOT in summer fun, and coincidentally, in coding. Working here has also allowed me to express myself creatively, allowing me to add as many puns and jokes previously not known to be possible. 
 
+I enjoyed working as a Summer Fun Leader, despite the hardships and drama. I really felt on top of the world, and every day was a best day of my life. Kaimuki Park has a special place in my heart, and I'll always know my way back home. The philosophy I gained from working here is "to compliment anyone's workflow", to work well with nearly anyone. Going forward, I hope to use these skills I learned in any job I get in the future. 

@@ -1,43 +1,24 @@
 ---
 layout: project
 type: project
-image: images/proj3-title.jpg
-title: Hexadecimal Sudoku
-permalink: projects/proj-recursion
+image: images/proj3-title.png
+title: Mario Flight Simulator
+permalink: projects/animations
 # All dates must be YYYY-MM-DD format!
-date: 2017-04-12
+date: 2017-12-03
 labels:
   - Java
-  - Class Project
-  - Recursion
+  - Object-Oriented Programming
   
-summary: Part sudoku solver, part recursion practice. A homework assignment from my ICS 211 class.
+summary: Jump, man! A Final project for ICS 111. 
 ---
 
-<img class="ui image" src="../images/proj3-sudoku.png">
+<img class="ui image" src="../images/proj3-thumb.png">
 
-For one of the last few assignments for ICS 211, we had to create a sudoku solver using recursion. If given an input of an array of array of numbers, it should recursively solve the puzzle by "brute force" methodology. If there are any missing or invalid values, the function should fill in the function with valid numbers and still complete the sukoku puzzle. It should then print the sudoku puzzle as an actual board in the console. If the puzzle is unsolvable then the function would quit and the console would print unsolveable. 
+You can view/play our humble game <a href="https://github.com/altonlee/mario-flight-simulator">here!</a>
 
-This project assignment was also another milestone of my computer science career, as this project truly challenged my knowledge of Java. We also learned about backtracking and why recursion can be dangerous if not used properly, or if there is no quit method if the base condition is met. One of the test inputs our professor provided took almost an hour to solve! I remember when I finally figured it out, I was so excited and happy that I decided to reward myself with a nap. 
+For ICS 111's Final project, I worked with Angeli Amascual and Koby Villalobos on a game inspired by Flappy Bird, written in Java. The goal of the game is to collect coins while avoiding flying enemies. The game gets incrementally faster and the player is given only three hit points before the game is over. 
 
-## Sample Code
-Below is some code from the project:
+This project was my first experience working in a programming team. Communication was vital for this project to work well, so we don't accidentally step on each others toes and write or overwrite someone's code. 
 
-```js
- /* check each cell for conflicts */
-    for (int i = 0; i < sudoku.length; i++) {
-      for (int j = 0; j < sudoku.length; j++) {
-        int cell = sudoku[i][j];
-        if (cell == -1) {
-          continue; /* blanks are always OK */
-        }
-        if ((cell < 0) || (cell > 16)) {
-          if (printErrors) {
-            System.out.println("sudoku row " + i + " column " + j + " has illegal value "
-                + String.format("%02X", cell));
-          }
-          return false;
-        }
-   ...
-```
-
+My contributions to this project include creating the backdrop, timer, and player movement class. Since this project was our first real taste in Java and project-oriented programming, the source files are evidently unoptimized. 
