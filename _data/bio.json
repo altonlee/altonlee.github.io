@@ -6,7 +6,7 @@
     "email": "altonlee@hawaii.edu",
     "phone": "",
     "website": "https://altonlee.github.io",
-    "summary": "Hiya! I'm Alton, studying for a B.S. in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020",
+    "summary": "Hiya! I'm Alton, studying for a B.S. in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -22,37 +22,37 @@
       },
       {
         "network": "linkedin",
-        "username": "altonlee2016",
+        "username": "altonlee",
         "url": "http://linkedin.com/in/altonlee2016"
       }
     ]
   },
   "interests": [
     {
-      "name": "Software Engineering",
+      "name": "software engineering",
       "keywords": [
-        "JavaScript",
-        "C/C++"
+        "C/C++",
+        "Python"
       ]
     },
     {
-      "name": "Video game design",
+      "name": "video game design",
       "keywords": [
-        "Level Design",
-        "Animations"
+        "level design",
+        "animations"
       ]
     },
     {
-      "name": "Website design",
+      "name": "website design",
       "keywords": [
-        "HTML",
-        "CSS"
+        "HTML/CSS",
+        "JavaScript"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages & Frameworks",
+      "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
         "C/C++",
@@ -74,9 +74,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2020)",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2016",
+      "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "3.1",
       "courses": [
@@ -92,12 +92,12 @@
   ],
   "work": [
     {
-      "company": "Teapresso Bar",
+      "company": "Teapresso Bar Kaimuki",
       "position": "Barista",
       "website": "",
       "startDate": "2018",
       "endDate": "Present",
-      "summary": "Barista at Teapresso Bar on Waialae Ave, Honolulu, HI.",
+      "summary": "Barista at Teapresso Bar on Waialae Ave",
       "highlights": [
         "Take orders of drinks ranging from milk teas to smoothies",
         "Take inventory of stock and count profits for the day",
@@ -110,7 +110,7 @@
       "website": "",
       "startDate": "2017",
       "endDate": "2019",
-      "summary": "Summer Fun Leader during Summers 2017, 2018, and 2019.",
+      "summary": "Summer Fun Leader for Summers 2017, 2018, and 2019",
       "highlights": [
         "Teach classes for children in arts and crafts, music and dance, sports and games",
         "Create, plan, and manage lesson plans and activities, such as assemblies and a Finale program",
@@ -123,8 +123,8 @@
       "position": "Gym Staff",
       "website": "",
       "startDate": "2017",
-      "endDate": "Present",
-      "summary": "Gym Staff at Kaimuki Community Park.",
+      "endDate": "2019",
+      "summary": "Gym Staff at Kaimuki Community Park",
       "highlights": [
         "Maintain park equipment and facility (gym, tennis and basketball courts, classrooms)",
         "Oversee activities run within park",
@@ -138,7 +138,7 @@
       "website": "",
       "startDate": "2015",
       "endDate": "2017",
-      "summary": "Librarian Assistant at Kaimuki Public Library.",
+      "summary": "Lirary Assistant at Kaimuki Public Library",
       "highlights": [
         "Collect, organize, and shelve books within library",
         "Organize shipment to and from outside liraries (in and out-of-island",
@@ -148,11 +148,11 @@
   ],
   "activities": [
     {
-      "organization": "Grey Hats",
-      "website": "",
-      "position": "Grey Hats Member @ ACM Manoa",
-      "startDate": "2019",
-      "endDate": "",
+      "organization": "Grey Hats @ ACM Manoa",
+      "website": "http://acmanoa.github.io/greyhats/",
+      "position": "Member",
+      "startDate": "2018",
+      "endDate": "Present",
       "summary": "Member of Grey Hats",
       "highlights": [
         "Participated in club activities",
@@ -162,16 +162,30 @@
     {
       "organization": "HACC",
       "website": "",
-      "position": "HACC Frontend Developer and Participant",
+      "position": "HACC Frontend Developer",
       "startDate": "",
       "endDate": "2018",
-      "summary": "Participated in the 2018 Hawaii Annual Code Challenge.",
+      "summary": "Participated in the 2018 Hawaii Annual Code Challenge",
       "highlights": [
         "Frontend developer for Team O.W.O.",
         "Created Heat Map of trash per building",
         "Fixed some broken lines of code",
         "Actor and professional cheerleader"
       ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "Dean's List",
+      "date": "Fall 2018",
+      "awarder": "",
+      "summary": "The Dean's List requires students to have completed 6 or more credits for a letter grade achieving a grade point average of at least 3.6 for the semester, a cumulative grade point ratio of 3.0, and no N’s, I’s, or F’s, and a maximum of one W in the semester of eligibility."
     }
   ],
   "references": [
