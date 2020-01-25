@@ -6,7 +6,7 @@
     "email": "altonlee@hawaii.edu",
     "phone": "",
     "website": "https://altonlee.github.io",
-    "summary": "Hiya! I'm Alton, studying for a B.S. in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
+    "summary": "Hiya! I'm Alton, studying for a B.S. in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -32,14 +32,8 @@
       "name": "software engineering",
       "keywords": [
         "C/C++",
+        "Java/JavaScript",
         "Python"
-      ]
-    },
-    {
-      "name": "video game design",
-      "keywords": [
-        "level design",
-        "animations"
       ]
     },
     {
@@ -48,6 +42,16 @@
         "HTML/CSS",
         "JavaScript"
       ]
+    },
+    {
+      "name": "video game design",
+      "keywords": [
+        "Blender animations",
+        "Unity"
+      ]
+    },
+    {
+      "name": "really bad puns"
     }
   ],
   "skills": [
@@ -56,43 +60,58 @@
       "level": "",
       "keywords": [
         "C/C++",
-        "Java/JavaScript",
+        "Java/Javascript",
         "HTML/CSS",
-        "Python"
+        "Python",
+        "Lisp",
+        "Prolog"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows",
+        "Windows OS"
         "Git/GitHub",
-        "IntelliJ"
+        "React",
+        "Semantic UI"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2016-09-01",
       "endDate": "Present",
-      "gpa": "3.1",
+      "gpa": "3.14",
       "courses": [
         "ICS 111, 141, 211, 212, 241",
-        "ICS 311, 314, 313, 321, 332",
-        "ICS 414, 415, 451"
+        "ICS 311, 314, 312, 313, 321, 332, 366",
+        "ICS 414, 415, 451, 465, 466"
       ]
     }
   ],
   "work": [
     {
+      "company": "John A. Burns School of Medicine",
+      "position": "Web Intern",
+      "website": "oit.jabsom.hawaii.edu",
+      "startDate": "2019",
+      "endDate": "Present",
+      "summary": "Assistant web developer for the OIT department",
+      "highlights": [
+        "Build, maintain, and update JABSOM websites to be responsive and ADA compliant",
+        "Miscellaneous other website duties, such as fixing broken links and updating web resources"
+      ]
+    },
+    {
       "company": "Teapresso Bar Kaimuki",
       "position": "Barista",
       "website": "",
-      "startDate": "2018",
-      "endDate": "Present",
+      "startDate": "November 2018",
+      "endDate": "February 2020",
       "summary": "Barista at Teapresso Bar on Waialae Ave",
       "highlights": [
         "Take orders of drinks ranging from milk teas to smoothies",
@@ -102,11 +121,11 @@
     },
     {
       "company": "Department of Parks and Recreation",
-      "position": "Summer Aide",
+      "position": "Summer Aide (Summer Fun Leader)",
       "website": "",
-      "startDate": "2017",
-      "endDate": "2019",
-      "summary": "Summer Fun Leader for Summers 2017, 2018, and 2019",
+      "startDate": "May 2017",
+      "endDate": "July 2019",
+      "summary": "Summer Fun Leader during the summers of 2017, 2018, and 2019",
       "highlights": [
         "Teach classes for children in arts and crafts, music and dance, sports and games",
         "Create, plan, and manage lesson plans and activities, such as assemblies and a Finale program",
@@ -118,13 +137,12 @@
       "company": "Department of Parks and Recreation",
       "position": "Gym Staff",
       "website": "",
-      "startDate": "2017",
-      "endDate": "2019",
+      "startDate": "August 2017",
+      "endDate": "December 2019",
       "summary": "Gym Staff at Kaimuki Community Park",
       "highlights": [
         "Maintain park equipment and facility (gym, tennis and basketball courts, classrooms)",
         "Oversee activities run within park",
-        "General supervision",
         "First aid certified"
       ]
     },
@@ -132,17 +150,42 @@
       "company": "Hawaii State Public Library System",
       "position": "Library Helper I",
       "website": "",
-      "startDate": "2015",
-      "endDate": "2017",
+      "startDate": "August 2015",
+      "endDate": "May 2017",
       "summary": "Lirary Assistant at Kaimuki Public Library",
       "highlights": [
         "Collect, organize, and shelve books within library",
-        "Organize shipment to and from outside liraries (in and out-of-island",
+        "Organize shipment to and from outside liraries (in and out-of-island)",
         "Other minor tasks"
       ]
     }
   ],
   "volunteer": [
+    {
+      "organization": "HACC",
+      "website": "",
+      "position": "Frontend Developer",
+      "startDate": "",
+      "endDate": "2018",
+      "summary": "Participated in the 2018 Hawaii Annual Code Challenge",
+      "highlights": [
+        "Frontend developer for Team O.W.O.",
+        "Created Heat Map of trash per building",
+        "Fixed some broken lines of code",
+        "Actor and professional cheerleader"
+      ]
+    },
+    {
+      "organization": "SWITCH-UHM",
+      "website": "",
+      "position": "Member",
+      "startDate": "October 2019",
+      "endDate": "Present",
+      "summary": "Member of 'Supporting Women in Information, Technology, and Computing in Hawaii'",
+      "highlights": [
+        "Participated in club activities"
+      ]
+    },
     {
       "organization": "Grey Hats @ ACM Manoa",
       "website": "http://acmanoa.github.io/greyhats/",
@@ -153,20 +196,6 @@
       "highlights": [
         "Participated in club activities",
         "Learned about cyber lockpicking and other hacking techniques"
-      ]
-    },
-    {
-      "organization": "HACC",
-      "website": "",
-      "position": "HACC Frontend Developer",
-      "startDate": "",
-      "endDate": "2018",
-      "summary": "Participated in the 2018 Hawaii Annual Code Challenge",
-      "highlights": [
-        "Frontend developer for Team O.W.O.",
-        "Created Heat Map of trash per building",
-        "Fixed some broken lines of code",
-        "Actor and professional cheerleader"
       ]
     }
   ],
