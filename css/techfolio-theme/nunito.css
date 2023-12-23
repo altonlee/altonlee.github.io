@@ -1,0 +1,54 @@
+/* Nunito theme. */
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --tf-lapis: #336699;
+  --tf-jade: #57A773;
+  --tf-carrot: #F19A3E;
+  --tf-coal: #172E45;
+  --bs-font-sans-serif: "Nunito Sans", sans-serif;
+  --bs-link-color: var(--tf-jade);
+  --tf-pill-bg: var(--tf-lapis);
+  --tf-icon-fill: var(--tf-jade);
+  --tf-icon-hover: var(--tf-carrot);
+  --tf-page-bg-color: var(--bs-gray-100);
+  --tf-header-bg-color: var(--tf-coal);
+  --tf-footer-bg-color: var(--tf-coal);
+}
+
+h1 {
+  color: var(--tf-lapis);
+  font-weight: bold;
+}
+
+/* Custom header background colors */
+header, footer {
+	background-color: var(--tf-header-bg-color);
+}
+
+a:hover {
+	color: var(--tf-carrot);
+}
+
+/* Format social media icons */
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-lapis);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+}
+
+/* Simplify the styling of the bottom of cards. */
+.card-footer {
+  background-color: var(--bs-white);
+  border-top: none;
+  padding-bottom: 15px;
+}
