@@ -4,11 +4,11 @@ title: Alton Lee | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://altonlee.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "/template"
+baseurl: ""
 
 # OPTIONAL CHANGES
 ## Specify the theme using any of the css files in css/techfolio-theme
-techfolio-theme: default.css
+techfolio-theme: nunito.css
 ## Specify the formatting for triple backquote code sections.
 rouge-theme: github.css
 
