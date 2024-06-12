@@ -1,23 +1,31 @@
-<div class="card mb-3">
-  <div class="row g-0">
-    <div class="col-sm-6 col-md-4">
-      <img src="{{ site.baseurl }}/{{ include.page.image }}" height="225px" class="rounded-start">
+<div class="col-md-6 col-lg-4" xmlns="http://www.w3.org/1999/html">
+  <div class="card h-100">
+    <div class="card-body">
+		{% if include.page.draft %}
+			<div class="float-end">📌</div>
+		{% endif %}
+		<h5 class="card-title">{{ include.page.title }}</h5>
+		<div class="text-center" style="padding-bottom: 10px">
+			<img src="{{ site.baseurl }}/{{ include.page.image }}" height="225px" class="rounded">
+		</div>
+		<span style="float:right" class="card-text"><small class="text-muted">{{ include.page.date }}</small></span>
+		<p>
+			{% for label in include.page.labels %}
+				<span class="card-label badge rounded-pill">{{ label }}</span>
+			{% endfor %}
+		</p>
+		<div class="card-desc">
+			<p class="card-text">{{ include.page.summary }}</p>
+	  </div>
     </div>
-    <div class="col-sm-6 col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">{{ include.page.title }} <small class="text-muted float-end">{{ include.page.date }}</small></h5>
-        <p class="card-text">{{ include.page.summary }}</p>
-        <p>
-          {% for label in include.page.labels %}
-          <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>
-          {% endfor %}
-        </p>
-        {% if page.projecturl %}
-        <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Project Site</a>
-        {% else %}
-        <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
-        {% endif %}
-      </div>
+    <div class="card-footer">
+		<div class="text-center">
+		{% if page.projecturl %}
+			<a href="{{ page.projecturl }}" class="btn btn-outline-dark card-btn">Project Site</a>
+		{% else %}
+			<a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark card-btn">Read More</a>
+		{% endif %}
+		</div>
     </div>
   </div>
 </div>

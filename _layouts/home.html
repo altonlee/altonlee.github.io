@@ -1,6 +1,18 @@
 ---
 layout: default
 ---
-{% include header.html %}
-{{ content }}
-{% include footer.html %}
+
+{% if page.title == 'Home' %}
+<!-- Adding the header in the custom div so it loads in with background -->
+	<div class="home">
+		{% include header.html color='transparent' %}
+		{{ content }}
+	</div>
+{% else %}
+<!-- Adding the header before the div so it loads with correct size -->
+	{% include header.html color='var(--tf-coal)' %}
+	<div class="root container-fluid min-vh-100">
+		{{ content }}
+	</div>
+	{% include footer.html %}
+{% endif %}

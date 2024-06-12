@@ -3,6 +3,15 @@ title: Home
 layout: home
 ---
 
-{% include about/about.html %}
-{% include projects/projects.html limit=4 %}
-{% include essays/essays.html limit=6 %}
+<div class="h-container">
+	<div class="landing-container">
+		<h1 class="display-4 text-center">{{ site.data.bio.basics.name }}</h1>
+		<p>{{ site.data.bio.basics.blurb }}</p>
+	</div>
+</div>
+
+<script>
+	window.onload = function() {
+		document.querySelector('.landing-container').classList.add('show');
+	};
+</script>

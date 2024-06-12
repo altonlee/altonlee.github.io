@@ -1,18 +1,26 @@
-<div style="background-color: var(--tf-projects-bg-color)" class="bg-gradient py-3" id="projects">
+<div class="bg-gradient py-3" id="projects">
   <div class="container">
     <div class="row mb-3">
       <div class="col-md-6">
-        <h1 class="display-4 text-start">Projects</h1>
+        <h1 class="display-4 text-start">Works</h1>
       </div>
     </div>
 
-    <div class="vstack gap-3">
+    <div class="row g-3">
       {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
+	  {% assign loop_limit = 0 %}
+      {% for page in project_pages %}
+        {% if page.draft %}
+          {% include projects/project-card.html page=page %}
+		  {% assign loop_limit = loop_limit | plus: 1 %}
+        {% endif %}
+      {% endfor %}
       {% for page in project_pages %}
         {% unless page.draft %}
           {% include projects/project-card.html page=page %}
+		  {% assign loop_limit = loop_limit | plus: 1 %}
         {% endunless %}
-        {% if forloop.index == include.limit %}
+        {% if loop_limit == include.limit %}
           {% break %}
         {% endif %}
       {% endfor %}
@@ -20,13 +28,11 @@
 
     {% assign not_draft = 0 %}
       {% for page in project_pages %}
-      {% unless page.draft %}
         {% assign not_draft = not_draft | plus: 1 %}
-      {% endunless %}
     {% endfor %}
 
     {% if not_draft > include.limit %}
-      <p class="text-center pt-4"><a href="{{ site.baseurl}}/projects/">See all {{ not_draft }} projects</a></p>
+      <p class="text-center pt-4"><a href="{{ site.baseurl}}/projects/">See all {{ not_draft }} works</a></p>
     {% endif %}
 
   </div>

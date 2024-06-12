@@ -1,12 +1,22 @@
-<header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+<header style="background-color:{{ include.color }}" class="navbar navbar-expand navbar-dark" role="navigation">
   <div class="container-fluid">
-    <a class="navbar-brand" href="{{ '/' | prepend: site.baseurl }}">{{ site.data.bio.basics.name }}</a>
-    <div class="ms-auto">
-      <ul class="navbar-nav mb-2 mb-lg-0">
-        <a class="nav-link" href="{{ '/#projects' | prepend: site.baseurl }}">Projects</a>
-        <a class="nav-link" href="{{ '/#essays' | prepend: site.baseurl }}">Essays</a>
-        <a class="nav-link" href="{{ '/resume.html' | prepend: site.baseurl }}">Resume</a>
-      </ul>
-    </div>
+	<a class="navbar-brand text-white" href="{{ '/' | prepend: site.baseurl }}">
+		<img width="32" src="{{ site.data.bio.basics.picture }}" class="d-inline-block rounded-circle">
+		<span>{{ site.data.bio.basics.name }}</span>
+	</a>
+	<div class="ms-right navbar-nav">
+		<a class="nav-link al-header" href="{{ '/page/about' | prepend: site.baseurl }}">
+			{% include icons/icons.html url=url class='tf-header' name='person-fill' %}
+			<span>About</span>
+		</a>
+		<a class="nav-link al-header" href="{{ '/projects' | prepend: site.baseurl }}">
+			{% include icons/icons.html url=url class='tf-header' name='puzzle-fill' %}
+			<span>Works</span>
+		</a>
+		<a class="nav-link al-header" href="{{ '/page/resume' | prepend: site.baseurl }}">
+			{% include icons/icons.html url=url class='tf-header' name='file-earmark-image-fill' %}
+			<span>Resume</span>
+		</a>
+	</div>
   </div>
 </header>

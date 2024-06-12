@@ -1,118 +1,54 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Alton Lee",
+    "label": "Software Engineer",
+    "picture": "/img/profile.jpeg",
+    "email": "altonlee2016@gmail.com",
+    "phone": "",
+    "website": "https://altonlee.github.io",
+	"blurb": "
+		Software engineer. Occasionally runs. Likes puns.",
+    "summary": "
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam volutpat commodo sed egestas egestas fringilla phasellus. Ornare aenean euismod elementum nisi quis eleifend. Arcu dui vivamus arcu felis bibendum ut tristique et. Phasellus vestibulum lorem sed risus ultricies. Id venenatis a condimentum vitae sapien. Ac felis donec et odio pellentesque diam. Egestas sed sed risus pretium quam vulputate. Eget mauris pharetra et ultrices neque ornare. Et malesuada fames ac turpis. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. Tempus iaculis urna id volutpat. Fames ac turpis egestas maecenas pharetra convallis. Elementum eu facilisis sed odio morbi quis commodo odio. Non blandit massa enim nec dui nunc mattis. Tincidunt dui ut ornare lectus sit amet est placerat in. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Enim nunc faucibus a pellentesque sit amet porttitor eget. At tellus at urna condimentum mattis pellentesque id. 
+<br><br>
+Nulla facilisi nullam vehicula ipsum a arcu cursus. Amet nulla facilisi morbi tempus iaculis urna id volutpat. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Magna fringilla urna porttitor rhoncus dolor purus. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet consectetur. Odio aenean sed adipiscing diam donec. Libero id faucibus nisl tincidunt eget. Potenti nullam ac tortor vitae. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus aenean. Odio euismod lacinia at quis. Nec ultrices dui sapien eget mi proin sed. Varius quam quisque id diam vel. Quis lectus nulla at volutpat. Cursus mattis molestie a iaculis at erat pellentesque. Suspendisse sed nisi lacus sed viverra. Vivamus arcu felis bibendum ut tristique et. Lectus mauris ultrices eros in cursus turpis massa. Odio aenean sed adipiscing diam. Dolor sed viverra ipsum nunc. Non sodales neque sodales ut etiam sit amet nisl. Diam ut venenatis tellus in metus. Et odio pellentesque diam volutpat commodo.
+	",
+    "location": { 
+		"address": "", 
+		"postalCode": "96816", 
+		"city": "Honolulu", 
+		"countryCode": "USA", 
+		"region": "Hawaiʻi" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { 
+		"network": "github", 
+		"username": "altonlee", 
+		"url": "http://github.com/altonlee" 
+	  },
+      { "network": "linkedin", 
+		"username": "altonlee", 
+		"url": "http://linkedin.com/in/altonlee2016" 
+	  }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
+    { "name": "Object-oriented Programming" },
+    { "name": "Software Engineering" },
+    { "name": "Game Design" },
+    { "name": "2D and 3D Animations" },
+    { "name": "silly puns" }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2016-09-01",
+      "endDate": "2020-05-24",
       "courses": [
+		"3.44/4.00 ICS GPA",
+		"3.16/4.00 Cumulative GPA"
       ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
     }
   ]
 }

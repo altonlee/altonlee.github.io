@@ -1,0 +1,148 @@
+/* Nunito theme. */
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --tf-coal: #052F5F;
+  --tf-lapis: #0496FF;
+  --tf-carrot: #FFBC42;
+  --tf-ruby: #D81159;
+  --tf-jade: #57A773;
+  --bs-font-sans-serif: "Nunito Sans", sans-serif;
+  --tf-pill-bg: var(--tf-ruby);
+  --tf-icon-fill: var(--tf-jade);
+  --tf-icon-hover: var(--tf-carrot);
+  --tf-page-bg-color: var(--bs-gray-100);
+}
+
+/* Site themes */
+h1, h4, h5 {
+	color: var(--tf-coal);
+}
+
+h2, h3 {
+	color: var(--tf-jade);
+}
+
+footer {
+	background-color: var(--tf-coal);
+	text-decoration: none;
+	color: var(--bs-white);
+}
+
+a:hover {
+	color: var(--tf-carrot);
+}
+
+.root {
+	background-color: var(--tf-page-bg-color);
+}
+
+
+/* Customize navbar between desktop and mobile */
+
+
+
+/* Set navbar animations */
+.al-header {
+	color: var(--bs-white);
+	transition: 0.2s;
+}
+
+.al-header:hover {
+	background-color: var(--tf-carrot);
+}
+
+
+
+/* Home layout: vertically and horizontally centered *//* Home landing animations */
+@keyframes landing-slide {
+	from	{top: 40%;}
+	to		{top: 33%;}
+}
+
+.home {
+	position: relative;
+	min-height: 100vh;
+	background-image: url("/img/IMG_1466.JPG");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.h-container {
+	margin: 0;
+	position: absolute;
+	top: 33%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	text-align: center;
+	
+	animation-name: landing-slide;
+	animation-duration: 1s;
+}
+
+.landing-container {
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 45px;
+	padding: 15px 20px;
+	opacity: 0;
+	transition: 1s;
+}
+
+.landing-container.show {
+	opacity: 1;
+}
+
+.landing-container h1 {
+	
+}
+
+
+
+/* Simplify the styling of the cards. */
+.card-label {
+	background-color: var(--tf-pill-bg);
+}
+
+.card-btn:hover {
+	background-color: var(--tf-carrot);
+	border-color: var(--tf-carrot);
+}
+
+.card-footer {
+  background-color: var(--bs-white);
+  border-top: none;
+  padding-bottom: 15px;
+}
+
+
+
+/* Format icons */
+.tf-header {
+	fill: var(--bs-white);
+	height: 1.2em;
+	vertical-align: -.2em;
+	width: 1.2em;
+}
+
+.tf-landing {
+	fill: var(--bs-white);
+	height: 3em;
+	width: 3em;
+}
+
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-lapis);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-carrot);
+}
