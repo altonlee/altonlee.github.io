@@ -1,22 +1,10 @@
 ---
-layout: default
+layout: home
 ---
-
-{% include header.html %}
 
 <div class="py-3 py-md-4 py-lg-5">
   <div class="container">
     <h1 class="display-4">404</h1>
     <bold>Page Not Found</bold>
-
-    <h3>Projects</h3>
-    <ul>
-      {% assign project_pages = site.pages | where: "type", "project" | sort: "title" %}
-      {% for page in project_pages %}
-      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-      {% endfor %}
-    </ul>
   </div>
 </div>
-
-{% include footer.html %}

@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/prj-fixit/title.png
 title: "Manoa Fix-It!"
-date: May 2020
+date: 2020
 published: true
 labels:
   - Android SDK

@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: img/prj-emp-fast/title.jpeg
-title: "FAST Enterprises"
-date: 2023
+title: "John A. Burns School of Medicine"
+date: 2020
 published: true
 labels:
-  - C#
-  - .NET
-  - SQL
-summary: "Implementation Consultant for multiple unemployment benefit state agencies across the US."
+  - WordPress CMS
+  - PHP
+summary: "Assistant Web Editor"
 ---
 
 ## Hello World

@@ -6,12 +6,26 @@
     "email": "altonlee2016@gmail.com",
     "phone": "",
     "website": "https://altonlee.github.io",
-	"blurb": "
-		Software engineer. Occasionally runs. Likes puns.",
+	"blurbs": [
+			{ "text": "Software engineer with an appetite for adventure!" },
+			{ "text": "Software engineer who loves a funky tune!" },
+			{ "text": "Software engineer; now with 20% more flair!" },
+			{ "text": "Software engineer who tells puns on Thursdays!" },
+			{ "text": "Software engineer who could use a Crunch Wrap Supreme!" },
+			{ "text": "Software engineer in search of the Krabby Patty secret formula!" },
+			{ "text": "Software engineer who wants to steal the moon!!" },
+			{ "text": "Software engineer who's gonna catch 'em all!!" },
+			{ "text": "Software engineer who's good at naming things!" },
+			{ "text": "Software engineer who loves in all things modular!" },
+			{ "text": "Software engineer who never forgets a semicolon!" },
+			{ "text": "Software engineer? Application developer?" }
+	],
     "summary": "
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam volutpat commodo sed egestas egestas fringilla phasellus. Ornare aenean euismod elementum nisi quis eleifend. Arcu dui vivamus arcu felis bibendum ut tristique et. Phasellus vestibulum lorem sed risus ultricies. Id venenatis a condimentum vitae sapien. Ac felis donec et odio pellentesque diam. Egestas sed sed risus pretium quam vulputate. Eget mauris pharetra et ultrices neque ornare. Et malesuada fames ac turpis. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. Tempus iaculis urna id volutpat. Fames ac turpis egestas maecenas pharetra convallis. Elementum eu facilisis sed odio morbi quis commodo odio. Non blandit massa enim nec dui nunc mattis. Tincidunt dui ut ornare lectus sit amet est placerat in. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Enim nunc faucibus a pellentesque sit amet porttitor eget. At tellus at urna condimentum mattis pellentesque id. 
+Finding solutions has always been at the heart of my work. Whether that is planning out a multi-million dollar waiver program for unemployment benefits, or being able to optimize the ___, I enjoy getting to be part of an action-oriented team. I have experience working with Java, C#, SQL, and . Currently, I'm working with (find a place to volunteer to put here) on _____.
 <br><br>
-Nulla facilisi nullam vehicula ipsum a arcu cursus. Amet nulla facilisi morbi tempus iaculis urna id volutpat. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Magna fringilla urna porttitor rhoncus dolor purus. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet consectetur. Odio aenean sed adipiscing diam donec. Libero id faucibus nisl tincidunt eget. Potenti nullam ac tortor vitae. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus aenean. Odio euismod lacinia at quis. Nec ultrices dui sapien eget mi proin sed. Varius quam quisque id diam vel. Quis lectus nulla at volutpat. Cursus mattis molestie a iaculis at erat pellentesque. Suspendisse sed nisi lacus sed viverra. Vivamus arcu felis bibendum ut tristique et. Lectus mauris ultrices eros in cursus turpis massa. Odio aenean sed adipiscing diam. Dolor sed viverra ipsum nunc. Non sodales neque sodales ut etiam sit amet nisl. Diam ut venenatis tellus in metus. Et odio pellentesque diam volutpat commodo.
+I was born and raised in Honolulu, HI and currently am based in the Greater Boston region. I received my B.S. in Computer Science at the University of Hawai'i Manoa and learned to love all things _____ during my time there. After work, you can usually find me following the newest Zelda updates, practicing my Korean and Chinese, or making a mean (insert food) while my cat Lilikoi watches. I'm always open to chatting about collaborations, the newest gaming updates, or a good comedy show. 
+
+
 	",
     "location": { 
 		"address": "", 
