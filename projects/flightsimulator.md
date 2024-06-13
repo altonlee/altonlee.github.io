@@ -10,7 +10,8 @@ labels:
 summary: "Jump, man! A final project for ICS 111."
 ---
 
-<img class="img-fluid" src="../img/prj-flightsim/thumb.png">
+<img class="img-fluid" src="../img/prj-flightsim/thumb.png"
+		alt="Screenshot of Tanooki Luigi flying in the clouds collecting coins and avoiding enemies.">
 
 You can view the game repo <a href="https://github.com/altonlee/mario-flight-simulator">here!</a>
 

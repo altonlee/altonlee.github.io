@@ -41,38 +41,43 @@ This project was our submission for the <a href="https://hacc.hawaii.gov/">Hawai
 </ul>
 
 ## How it works
+
+#### Audit Timeline
+
+<img class="img-fluid img-thumbnail" alt="Screenshot of the application."
+		src="https://oahu-waste-organizer.github.io/images/events-nonuser.PNG">
+
 All users can view details of past and upcoming waste audit events within the UH campuses. Users can also check within each event how much trash was recorded at that campus's building. 
 
-<img class="img-fluid" src="https://oahu-waste-organizer.github.io/images/events-nonuser.PNG">
+#### Data Visualization
+
+<img class="img-fluid img-thumbnail" alt="Screenshot of the application."
+		src="https://oahu-waste-organizer.github.io/images/charts.PNG">
 
 Graphs reflect either weight or volume data of each category. Users can also view the breakdown a category of trash using the bar graph on the right. 
 
+#### Account Types
 
-
-<img class="img-fluid" src="https://oahu-waste-organizer.github.io/images/charts.PNG">
+<img class="img-fluid img-thumbnail" alt="Screenshot of the application."
+		src="https://oahu-waste-organizer.github.io/images/input.PNG">
 
 Since gathering data about the types of trash per building within a UH campus is a pretty big deal, we locked our input page behind user accounts. There are two types of user accounts. Regular users have access to the Input page, which is our main purpose of our application.
 
+#### Admin Privileges
 
-<img class="img-fluid" src="https://oahu-waste-organizer.github.io/images/input.PNG">
+<img class="img-fluid img-thumbnail" alt="Screenshot of the application."		
+		src="https://oahu-waste-organizer.github.io/images/events-manager.PNG">
 
 Admins have access to the Event Manager, where admins can create or edit events. The Events page also has shortcuts to editing and creating events as well. 
 
+#### Dashboard
 
-<div class="text-center p-4">
-  <img class="img-thumbnail" src="https://oahu-waste-organizer.github.io/images/events-manager.PNG">
-  <img class="img-thumbnail" src="https://oahu-waste-organizer.github.io/images/admin-events.PNG">
-</div>
+<img class="img-fluid img-thumbnail" alt="Screenshot of the application."		
+		src="https://oahu-waste-organizer.github.io/images/dashboard.PNG">
 
 And last but not least, all users have access to the Dashboard, an in-depth statistics page that displays all audit data in a convenient manner. 
 
-
-
-<img class="img-fluid" src="https://oahu-waste-organizer.github.io/images/dashboard.PNG">
-
 The application was developed over the span of three weeks. Although there are some bugs and features we haven't been able to implement, we would like to develop the application further in the future. 
-
-
 
 ## My Contributions
 Some features I developed:

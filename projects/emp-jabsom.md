@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/prj-emp-fast/title.jpeg
+image: img/prj-emp-jabsom/title.png
 title: "John A. Burns School of Medicine"
 date: 2020
 published: true
 labels:
   - WordPress CMS
   - PHP
-summary: "Assistant Web Editor"
+summary: "Assistant Web Editor for the JABSOM department multisite."
 ---
 
 ## Hello World

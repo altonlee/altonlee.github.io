@@ -21,7 +21,7 @@ Our target demographic for this app are students and professors who use campus f
 
 Check out the video below to see the app in action!
 
-<div class="container" style="text-align: center">
+<div class="p-4" style="text-align: center">
 	<iframe width="100%" height="600" src="https://www.youtube-nocookie.com/embed/bbYfWPntq98?si=qHSzi5pjkqPyA7wR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
