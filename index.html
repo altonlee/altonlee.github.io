@@ -4,14 +4,56 @@ layout: home
 ---
 
 <div class="h-container">
-	<div class="landing-container">
-		<h1 class="display-4 text-center">{{ site.data.bio.basics.name }}</h1>
-		<p>{{ site.data.bio.basics.blurb }}</p>
+	<div class="l-anims">
+		<h1 class="display-4 text-center text-light">{{ site.data.bio.basics.name }}</h1>
+	</div>
+	<div>
+		<a href="javascript:regenBlurb()">fjlsakfjasldfkjasdlf</a>
+	</div>
+	<div class="l-anims landing-container" id="blurb-box" style="padding-top: 20px">
+		<h4 id="random-blurb">		
+			{% for blurb in site.data.bio.basics.blurbs %}
+				{% capture text %}{{ blurb.text }}{% endcapture %}
+				{{ blurb.text }}~
+			{% endfor %}
+		</h4>
 	</div>
 </div>
 
 <script>
+	// Member variables
+	const landingRise = "l-anims";
+	const classVisible = "show";
+	let blurbs = new Array();
+
+	// Delays processing by given time in milliseconds.
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+	
+	// Processes elements' rising animation given a class name.
+	const riseAnims = async (className, ms) => {
+		let containers = document.getElementsByClassName(className);
+		for (let i = 0; i < containers.length; i++) {
+			containers[i].classList.add(classVisible);
+			await delay(ms);
+		}
+	}
+	
+	// Randomly generates a random blurb.
+	const randomBlurb = function() {
+		if (blurbs.length == 0) {
+			blurbs = document.getElementById("random-blurb").innerHTML.split('~');
+		}
+		
+		let rand = Math.floor(Math.random() * (blurbs.length - 1));
+		document.getElementById("random-blurb").innerHTML = blurbs[rand];
+	}
+	
+	function regenBlurb() {
+		randomBlurb();
+	}
+
 	window.onload = function() {
-		document.querySelector('.landing-container').classList.add('show');
+		randomBlurb();
+		riseAnims(landingRise, 500);
 	};
 </script>

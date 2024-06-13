@@ -10,16 +10,8 @@
       {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
 	  {% assign loop_limit = 0 %}
       {% for page in project_pages %}
-        {% if page.draft %}
           {% include projects/project-card.html page=page %}
 		  {% assign loop_limit = loop_limit | plus: 1 %}
-        {% endif %}
-      {% endfor %}
-      {% for page in project_pages %}
-        {% unless page.draft %}
-          {% include projects/project-card.html page=page %}
-		  {% assign loop_limit = loop_limit | plus: 1 %}
-        {% endunless %}
         {% if loop_limit == include.limit %}
           {% break %}
         {% endif %}

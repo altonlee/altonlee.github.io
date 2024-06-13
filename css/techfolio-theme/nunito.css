@@ -5,10 +5,10 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-coal: #052F5F;
-  --tf-lapis: #0496FF;
-  --tf-carrot: #FFBC42;
-  --tf-ruby: #D81159;
-  --tf-jade: #57A773;
+  --tf-lapis: #0568A3;
+  --tf-jade: #679436;
+  --tf-carrot: #FFB703;
+  --tf-ruby: #FF0101;
   --bs-font-sans-serif: "Nunito Sans", sans-serif;
   --tf-pill-bg: var(--tf-ruby);
   --tf-icon-fill: var(--tf-jade);
@@ -58,8 +58,17 @@ a:hover {
 
 /* Home layout: vertically and horizontally centered *//* Home landing animations */
 @keyframes landing-slide {
-	from	{top: 40%;}
+	from	{top: 50%;}
 	to		{top: 33%;}
+}
+
+.l-anims {
+	opacity: 0;
+	transition: 1s;
+}
+
+.l-anims.show {
+	opacity: 1;
 }
 
 .home {
@@ -85,37 +94,34 @@ a:hover {
 }
 
 .landing-container {
-	background-color: rgba(255, 255, 255, 0.5);
-	border-radius: 45px;
+	background-color: rgba(255, 255, 255, 0.3);
+	border-radius: 25px;
 	padding: 15px 20px;
-	opacity: 0;
-	transition: 1s;
 }
 
-.landing-container.show {
-	opacity: 1;
-}
-
-.landing-container h1 {
-	
+@media (max-width: 500px) {
+	.landing-container {
+		min-width:  75vw;
+	}
 }
 
 
 
 /* Simplify the styling of the cards. */
+.card {
+	text-decoration: none;
+	color: var(--bs-body-color);
+}
+
+.card:hover {
+	color: var(--bs-body-color);
+	transform: translate(0px, -5px);
+}
+
 .card-label {
-	background-color: var(--tf-pill-bg);
-}
-
-.card-btn:hover {
-	background-color: var(--tf-carrot);
-	border-color: var(--tf-carrot);
-}
-
-.card-footer {
-  background-color: var(--bs-white);
-  border-top: none;
-  padding-bottom: 15px;
+	border: 1px solid;
+	border-color: var(--tf-coal);
+	color: var(--tf-coal);
 }
 
 
@@ -123,9 +129,9 @@ a:hover {
 /* Format icons */
 .tf-header {
 	fill: var(--bs-white);
-	height: 1.2em;
-	vertical-align: -.2em;
-	width: 1.2em;
+	height: 1.5em;
+	width:  1.5em;
+	vertical-align: -.4em;
 }
 
 .tf-landing {
@@ -137,12 +143,17 @@ a:hover {
 .tf-social {
   display: inline-block;
   fill: var(--tf-lapis);
-  height: 1.5em;
-  vertical-align: -.1em;
-  width: 1.5em;
+  height: 1.8em;
+  width:  1.8em;
   transition: 0.2s;
 }
 
 .tf-social:hover {
   fill: var(--tf-carrot);
+}
+
+.tf-generic {
+	fill: var(--bs-body-color);
+	height: 1em;
+	width:  1em;
 }

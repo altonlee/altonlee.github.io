@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/prj-flightsim/title.png
 title: "Mario Flight Simulator"
-date: Apr 2017
+date: 2017
 published: true
 labels:
   - Java

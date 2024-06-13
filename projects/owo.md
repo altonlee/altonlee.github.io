@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/prj-owo/title.png
 title: "Oahu Waste Organizer (O.W.O)"
-date: Dec 2018
+date: 2018
 published: true
 labels:
   - Meteor

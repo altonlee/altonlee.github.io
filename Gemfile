@@ -9,6 +9,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "webrick", "~> 1.7"
+gem "liquid", "~> 4.0.4"
 gem 'html-proofer'
 gem 'jekyll-gist'
 gem 'rouge'

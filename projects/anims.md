@@ -3,9 +3,9 @@ layout: project
 type: project
 image: img/prj-anims/title.png
 title: "Blender Animation"
-date: Aug 2016 - Oct 2022
+date: 2022
 published: true
-draft: true
+
 labels:
   - Blender
   - GIMP

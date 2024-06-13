@@ -3,11 +3,11 @@ layout: project
 type: project
 image: img/prj-penne/title.png
 title: "Penne Calendar Event Creator"
-date: Nov 2019
+date: 2019
 published: true
 labels:
-  - Javascript
   - HTML
+  - Javascript
   - Semantic UI
 
 summary: "Create and share calendar events with ease. An HTML and JS-based project for ICS 414."
