@@ -1,12 +1,12 @@
 <header style="background-color:{{ include.color }}" role="navigation">
 	<nav class="navbar navbar-expand-md">
 		<div class="container-fluid">
-			<a class="navbar-brand" style="padding: 8px 10px" href="{{ '/' | prepend: site.baseurl }}">
+			<a class="navbar-brand" style="padding: 5px 10px;" href="{{ '/' | prepend: site.baseurl }}">
 				<img width="32" src="{{ site.data.bio.basics.picture }}" class="d-inline-block rounded-circle">
 				<span>{{ site.data.bio.basics.name }}</span>
 			</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#alNavbar" aria-controls="alNavbar" aria-expanded="false" aria-label="Toggle navigation">
-				{% include icons/icons.html url=url class='tf-header' name='list' %}
+				<span>{% include icons/icons.html url=url class='tf-header' name='list' %}</span>
 			</button>
 			<div class="collapse navbar-collapse" id="alNavbar">
 				<ul class="navbar-nav d-flex">

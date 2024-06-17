@@ -12,22 +12,24 @@ labels:
 summary: "Implementation Consultant for multiple unemployment benefit state agencies across the US."
 ---
 
-## Hello World
+## Hello, Mt. Rainier!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Diam volutpat commodo sed egestas egestas fringilla phasellus. Ornare aenean euismod elementum nisi quis eleifend. 
+In July 2020 I was onboarded as an Implementation Consultant (ICs) for FAST Enterprises and was assigned an unemployment insurance (UI) project site based in Olympia, WA. During this time the world had seen unprecedented counts of unemployment, and thus Washington's UI program desparately needed an upgrade. After touching down in Washington state I collaborated remotely with subject matter experts (SMEs), stakeholders, and fellow ICs to upgrade the current system to accomadate the ever-evolving UI policies and capacity of unemployment registrations. 
 
-Arcu dui vivamus arcu felis bibendum ut tristique et. Phasellus vestibulum lorem sed risus ultricies. Id venenatis a condimentum vitae sapien. Ac felis donec et odio pellentesque diam. Egestas sed sed risus pretium quam vulputate. 
+My day-to-day responsibilities generally included: 
 
-Eget mauris pharetra et ultrices neque ornare. Et malesuada fames ac turpis. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. Tempus iaculis urna id volutpat. Fames ac turpis egestas maecenas pharetra convallis. 
+1. Resolving server requests, usually implementing a code or config change to fix a site issue reported by stakeholders. Server requests ranged in severity, colloquially termed "T-Shirt Sizes". Turnaround time for these server requests were typically two weeks, starting from developing in a local environment to testing in a production-like environment with unit testing. Test scenarios were provided by the developers and given to SMEs for thorough testing. 
 
-## Elementum eu facilisis 
+2. Information gathering, which mainly consisted of querying against data tables for claimant data, unemployment benefit amounts, entitlement types, and/or other data. These reports are typically used to decide policies way above my paygrade, so precision and accuracy are always a priority. 
 
-Sed odio morbi quis commodo odio. Non blandit massa enim nec dui nunc mattis. Tincidunt dui ut ornare lectus sit amet est placerat in. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Enim nunc faucibus a pellentesque sit amet porttitor eget. At tellus at urna condimentum mattis pellentesque id. 
+3. Knowledge transfer & mentorship. Many project sites trade ICs across other sites depending on state/project urgency, so an IC does not stick around one site for long. Because of this, it was important for every IC to share and learn knowledge about site politics and policies, along with current system kinks and ongoing projects.
 
-Nulla facilisi nullam vehicula ipsum a arcu cursus. Amet nulla facilisi morbi tempus iaculis urna id volutpat. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Magna fringilla urna porttitor rhoncus dolor purus. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet consectetur. 
+## Highlights
 
-Odio aenean sed adipiscing diam donec. Libero id faucibus nisl tincidunt eget. Potenti nullam ac tortor vitae. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus aenean. Odio euismod lacinia at quis. Nec ultrices dui sapien eget mi proin sed. Varius quam quisque id diam vel. Quis lectus nulla at volutpat. 
+- Implemented a new unemployment tax system for [Massachusetts’ Employment Modernization and Transformation (EMT) Phase 1 project](https://www.mass.gov/unemployment-insurance-modernization)
 
-## Cursus mattis molestie 
+- Implemented a state-wide overpayment waiver program for [Washington's Employment Security Department (ESD)](https://esd.wa.gov/unemployment/overpayments) , which foced on waiving millions in overpayments caused by the pandemic. 
 
-Iaculis at erat pellentesque. Suspendisse sed nisi lacus sed viverra. Vivamus arcu felis bibendum ut tristique et. Lectus mauris ultrices eros in cursus turpis massa. Odio aenean sed adipiscing diam. Dolor sed viverra ipsum nunc. Non sodales neque sodales ut etiam sit amet nisl. Diam ut venenatis tellus in metus. Et odio pellentesque diam volutpat commodo.
+## Want to learn more?
+
+I cannot disclose more details publicly, so if you'd like to learn more about my work specifics here, please do not hesitate to reach out! 

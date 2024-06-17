@@ -56,7 +56,7 @@ a:hover {
 	opacity: 1;
 }
 
-/* Home layout: vertically and horizontally centered *//* Home landing animations */
+/* Home layout: vertically and horizontally centered */
 .home {
 	position: relative;
 	min-height: 100vh;
@@ -98,6 +98,14 @@ a:hover {
 
 .nav-link:hover, .navbar-brand:hover {
 	background-color: var(--tf-carrot);
+}
+
+.navbar-collapse {
+	flex-grow: 0;
+}
+
+@media (max-width: 500px) {
+	.navbar-collapse { flex-grow: 1; }
 }
 
 
