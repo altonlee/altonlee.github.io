@@ -40,23 +40,8 @@ a:hover {
 }
 
 
-/* Customize navbar between desktop and mobile */
-
-
 
 /* Set navbar animations */
-.al-header {
-	color: var(--bs-white);
-	transition: 0.2s;
-}
-
-.al-header:hover {
-	background-color: var(--tf-carrot);
-}
-
-
-
-/* Home layout: vertically and horizontally centered *//* Home landing animations */
 @keyframes landing-slide {
 	from	{top: 50%;}
 	to		{top: 33%;}
@@ -71,6 +56,7 @@ a:hover {
 	opacity: 1;
 }
 
+/* Home layout: vertically and horizontally centered *//* Home landing animations */
 .home {
 	position: relative;
 	min-height: 100vh;
@@ -103,6 +89,15 @@ a:hover {
 	.landing-container {
 		min-width:  75vw;
 	}
+}
+
+.nav-link, .navbar-brand {
+	color: var(--bs-white);
+	transition: 0.2s;
+}
+
+.nav-link:hover, .navbar-brand:hover {
+	background-color: var(--tf-carrot);
 }
 
 
