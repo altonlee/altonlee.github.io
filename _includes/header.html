@@ -1,22 +1,32 @@
-<header style="background-color:{{ include.color }}" class="navbar navbar-expand navbar-dark" role="navigation">
-  <div class="container-fluid">
-	<a class="navbar-brand text-white al-header" style="padding: 5px 10px" href="{{ '/' | prepend: site.baseurl }}">
-		<img width="32" src="{{ site.data.bio.basics.picture }}" class="d-inline-block rounded-circle">
-		<span>{{ site.data.bio.basics.name }}</span>
-	</a>
-	<div class="ms-right navbar-nav">
-		<a class="nav-link al-header" href="{{ '/about' | prepend: site.baseurl }}">
-			{% include icons/icons.html url=url class='tf-header' name='person-fill' %}
-			<span>About</span>
-		</a>
-		<a class="nav-link al-header" href="{{ '/projects' | prepend: site.baseurl }}">
-			{% include icons/icons.html url=url class='tf-header' name='puzzle-fill' %}
-			<span>Works</span>
-		</a>
-		<a class="nav-link al-header" href="{{ '/about/resume' | prepend: site.baseurl }}">
-			{% include icons/icons.html url=url class='tf-header' name='file-earmark-image-fill' %}
-			<span>Resume</span>
-		</a>
-	</div>
-  </div>
+<header style="background-color:{{ include.color }}" role="navigation">
+	<nav class="navbar navbar-expand-md">
+		<div class="container-fluid">
+			<a class="navbar-brand" style="padding: 8px 10px" href="{{ '/' | prepend: site.baseurl }}">
+				<img width="32" src="{{ site.data.bio.basics.picture }}" class="d-inline-block rounded-circle">
+				<span>{{ site.data.bio.basics.name }}</span>
+			</a>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#alNavbar" aria-controls="alNavbar" aria-expanded="false" aria-label="Toggle navigation">
+				{% include icons/icons.html url=url class='tf-header' name='list' %}
+			</button>
+			<div class="collapse navbar-collapse" id="alNavbar">
+				<ul class="navbar-nav d-flex">
+					<li class="nav-item">
+						<a class="nav-link" href="{{ '/about' | prepend: site.baseurl }}">
+							{% include icons/icons.html url=url class='tf-header' name='person-fill' %}
+							<span>About</span>
+					</a></li>
+					<li class="nav-item">
+						<a class="nav-link" href="{{ '/projects' | prepend: site.baseurl }}">
+							{% include icons/icons.html url=url class='tf-header' name='puzzle-fill' %}
+							<span>Works</span>
+					</a></li>
+					<li class="nav-item">
+						<a class="nav-link" href="{{ '/about/resume' | prepend: site.baseurl }}">
+							{% include icons/icons.html url=url class='tf-header' name='file-earmark-image-fill' %}
+							<span>Resume</span>
+					</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
 </header>
